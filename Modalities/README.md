@@ -1,4 +1,4 @@
-# Modalities
+![image](https://github.com/user-attachments/assets/35701efb-1a86-49b3-84cf-2e04bc26d4ae)# Modalities
 * [3D Input](#3d-input)
   *  [3D Object Detection](#3D-Object-Detection)
   *  [3D Shape Classification](#3D-Shape-Classification)
@@ -17,6 +17,7 @@
 ---
 ## 3D Input
 ### 3D Object Detection
+[Weak-to-strong 3d object detection with x-ray distillation](https://arxiv.org/pdf/2404.00679)[code](https://github.com/sakharok13/X-Ray-Teacher-Patching-Tools)
 ### 3D Shape Classification
 ### 3D Segmentation
 ### 3D Domain Adaptation
