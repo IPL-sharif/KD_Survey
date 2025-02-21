@@ -16,7 +16,7 @@
 ---
 ## 3D Input
 ### 3D Object Detection
-* Weak-to-strong 3d object detection with x-ray distillation - 2024 [paper](https://arxiv.org/pdf/2404.00679) - [code](https://github.com/sakharok13/X-Ray-Teacher-Patching-Tools)
+* Weak-to-strong 3d object detection with x-ray distillation - 2024 -[paper](https://arxiv.org/pdf/2404.00679) - [code](https://github.com/sakharok13/X-Ray-Teacher-Patching-Tools)
 ### 3D Shape Classification
 ### 3D Segmentation
 ### 3D Domain Adaptation
