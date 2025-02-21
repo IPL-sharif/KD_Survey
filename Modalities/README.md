@@ -19,7 +19,7 @@
 ## 3D Input
 ### 3D Object Detection
 * Weak-to-strong 3d object detection with x-ray distillation - 2024 - [paper](https://arxiv.org/pdf/2404.00679) - [code](https://github.com/sakharok13/X-Ray-Teacher-Patching-Tools)
-* RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features - 2024 - [paper](https://arxiv.org/pdf/2403.05061) - [code]()
+* RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features - 2024 - [paper](https://arxiv.org/pdf/2403.05061) - code
 ### 3D Shape Classification
 ### 3D Segmentation
 ### 3D Domain Adaptation
