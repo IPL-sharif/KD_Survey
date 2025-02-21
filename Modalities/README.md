@@ -1,11 +1,15 @@
-# KD_survey
-
-## A Comprehensive Survey on Knowledge Distillation
-
+# Modalities
 
 ## Table of Content
-[SOURCES]()
 
+## 3D Input
 
-## SOURCES
+## Multi-View
+
+## Text
+
+## Speech
+
+## Video
+
 
