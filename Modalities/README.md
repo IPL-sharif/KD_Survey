@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/35701efb-1a86-49b3-84cf-2e04bc26d4ae)# Modalities
 * [3D Input](#3d-input)
   *  [3D Object Detection](#3D-Object-Detection)
   *  [3D Shape Classification](#3D-Shape-Classification)
