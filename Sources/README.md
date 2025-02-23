@@ -48,7 +48,7 @@
 - **Knowledge Diffusion for Distillation**, NeurIPS 2023, [ :link: ](https://arxiv.org/abs/2305.15712)[ :octocat: ](https://github.com/hunto/DiffKD)
 - **FAKD: Feature Augmented Knowledge Distillation for Semantic Segmentation**, WACV 2024, [ :link: ](https://arxiv.org/abs/2208.14143)[ :octocat: ](https://github.com/jianlong-yuan/FAKD)
 - **Rethinking Knowledge Distillation with Raw Features for Semantic Segmentation**, WACV 2024, [ :link: ](https://ieeexplore.ieee.org/document/10484265)
-- **Attention-guided Feature Distillation for Semantic Segmentation**, Arxiv 2023, [ :link: ](https://arxiv.org/abs/2403.05451)[ :octocat: ](https://github.com/AmirMansurian/AttnFD)
+- **Attention-guided Feature Distillation for Semantic Segmentation**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2403.05451)[ :octocat: ](https://github.com/AmirMansurian/AttnFD)
 
 
 ### Similarity-based Distillation
