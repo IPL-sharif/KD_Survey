@@ -18,7 +18,7 @@
 ---
 ## 3D Input
 ### 3D Object Detection
-* Weak-to-strong 3d object detection with x-ray distillation - 2024 - [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Gambashidze_Weak-to-Strong_3D_Object_Detection_with_X-Ray_Distillation_CVPR_2024_paper.html) - [ :octocat: ](https://github.com/sakharok13/X-Ray-Teacher-Patching-Tools)
+* Weak-to-strong 3d object detection with x-ray distillation, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Gambashidze_Weak-to-Strong_3D_Object_Detection_with_X-Ray_Distillation_CVPR_2024_paper.html) [ :octocat: ](https://github.com/sakharok13/X-Ray-Teacher-Patching-Tools)
 * RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features - 2024 - [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Bang_RadarDistill_Boosting_Radar-based_Object_Detection_Performance_via_Knowledge_Distillation_from_CVPR_2024_paper.html)
 * **Representation Disparity-aware Distillation for 3D Object Detection** - 2023 - [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Representation_Disparity-aware_Distillation_for_3D_Object_Detection_ICCV_2023_paper.html)
 * PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection - 2023 - [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_PointDistiller_Structured_Knowledge_Distillation_Towards_Efficient_and_Compact_3D_Detection_CVPR_2023_paper.html) - [code](https://github.com/RunpeiDong/PointDistiller)
