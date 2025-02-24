@@ -1,8 +1,8 @@
 # Schemes
 
 *  [Offline Distillation](#Offline-Distillation)
-*  [Adversarial Distillation](#Online-Distillation)
-*  [Multi-teacher Distillation](#Self-Distillation)
+*  [Online Distillation](#Online-Distillation)
+*  [Self-Distillation](#Self-Distillation)
 ---
 ## Offline Distillation
 
