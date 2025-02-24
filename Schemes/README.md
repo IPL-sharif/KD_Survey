@@ -37,7 +37,7 @@ for Efficient Online Knowledge Distillation - 2023 - [paper](http://openaccess.t
 - **Iterative Graph Self-Distillation**, T-CDE 2023, [ :link: ](https://arxiv.org/abs/2010.12609)
 - **Neighbor self-knowledge distillation**, Information Science 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014445) 
 - **Tolerant Self-Distillation for image classification**, Neural Networks 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0893608024001394)
-- **Dual teachers for self-knowledge distillation**, Pattern Recognition, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0031320324001730)
+- **Dual teachers for self-knowledge distillation**, Pattern Recognition 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0031320324001730)
 - **Self-Distillation via Intra-Class Compactness**, PRCV 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-981-97-8487-5_10)
 - **EPSD: Early Pruning with Self-Distillation for Efficient Model Compression**, AAAI 2024, [ :link: ](https://arxiv.org/abs/2402.00084)
 - **A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation**, TIP 2024, [ :link: ](https://arxiv.org/abs/2403.03483)[ :octocat: ](https://github.com/LirongWu/TGS)
