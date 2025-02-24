@@ -1,10 +1,9 @@
-# KD_survey
+# Sources
 
-## A Comprehensive Survey on Knowledge Distillation
-
-
-## Table of Content
-[SOURCES]()
+*  [Logit-based Distillation](#Logit-based-Distillation)
+*  [Feature-based Distillation](#Feature-based-Distillation)
+*  [Similarity-based Distillation](#Similarity-based-Distillation)
+---
 
 ### Logit-based Distillation
 - **Distilling the Knowledge in a Neural Network**, Arxiv 2015, [ :link: ](https://arxiv.org/abs/1503.02531)[ :octocat: ](https://github.com/shriramsb/Distilling-the-Knowledge-in-a-Neural-Network)
