@@ -34,7 +34,7 @@ for Efficient Online Knowledge Distillation - 2023 - [paper](http://openaccess.t
 - **Self-Knowledge Distillation with Progressive Refinement of Targets**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2006.12000)[ :octocat: ](https://github.com/lgcnsai/PS-KD-Pytorch)
 - **From Knowledge Distillation to Self-Knowledge Distillation: A Unified Approach with Normalized Loss and Customized Soft Labels**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2303.13005)[ :octocat: ](https://github.com/yzd-v/cls_KD)
 - **Deep Contrastive Representation Learning With Self-Distillation**, T-ETCI 2023, [ :link: ](https://ieeexplore.ieee.org/document/10233880)
-- **Iterative Graph Self-Distillation**, T-CDE, [ :link: ](https://arxiv.org/abs/2010.12609)
+- **Iterative Graph Self-Distillation**, T-CDE 2023, [ :link: ](https://arxiv.org/abs/2010.12609)
 - **Neighbor self-knowledge distillation**, Information Science 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014445) 
 - **Tolerant Self-Distillation for image classification**, Neural Networks 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0893608024001394)
 - **Dual teachers for self-knowledge distillation**, Pattern Recognition, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0031320324001730)
