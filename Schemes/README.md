@@ -24,4 +24,23 @@ for Efficient Online Knowledge Distillation - 2023 - [paper](http://openaccess.t
 
 
 ## Self-Distillation
+- **Born Again Neural Networks**, ICML 2018, [ :link: ](https://arxiv.org/abs/1805.04770)[ :octocat: ](https://github.com/nocotan/born_again_neuralnet)
+- **Self-Referenced Deep Learning**, ACCV 2018, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-030-20890-5_19?fromPaywallRec=false)
+- **Be your own teacher: Improve the performance of convolutional neural networks via self distillation**, CVPR 2019, [ :link: ](https://arxiv.org/abs/1905.08094)[ :octocat: ](https://github.com/luanyunteng/pytorch-be-your-own-teacher)
+- **Data-distortion guided self-distillation for deep neural networks**, CVPR 2019, [ :link: ](https://dl.acm.org/doi/10.1609/aaai.v33i01.33015565)[ :octocat: ](https://github.com/youngerous/ddgsd-pytorch)
+- **Self-Distillation as Instance-Specific Label Smoothing**, NeurIPS 2019, [ :link: ](https://arxiv.org/abs/2006.05065)[ :octocat: ](https://github.com/ZhiluZhang123/neurips\_2020\_distillation)
+- **Self-Distillation Amplifies Regularization in Hilbert Space**, NeurIPS 2019, [ :link: ](https://arxiv.org/abs/2002.05715)
+- **Self-distillation: Towards efficient and compact neural networks**, TPAMI 2021, [ :link: ](https://ieeexplore.ieee.org/document/9381661)[ :octocat: ](https://github.com/Frank-Jin54/self_distillation)
+- **Self-Knowledge Distillation with Progressive Refinement of Targets**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2006.12000)[ :octocat: ](https://github.com/lgcnsai/PS-KD-Pytorch)
+- **From Knowledge Distillation to Self-Knowledge Distillation: A Unified Approach with Normalized Loss and Customized Soft Labels**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2303.13005)[ :octocat: ](https://github.com/yzd-v/cls_KD)
+- **Deep Contrastive Representation Learning With Self-Distillation**, T-ETCI 2023, [ :link: ](https://ieeexplore.ieee.org/document/10233880)
+- **Iterative Graph Self-Distillation**, T-CDE, [ :link: ](https://arxiv.org/abs/2010.12609)
+- **Neighbor self-knowledge distillation**, Information Science 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014445) 
+- **Tolerant Self-Distillation for image classification**, Neural Networks 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0893608024001394)
+- **Dual teachers for self-knowledge distillation**, Pattern Recognition, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0031320324001730)
+- **Self-Distillation via Intra-Class Compactness**, PRCV 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-981-97-8487-5_10)
+- **EPSD: Early Pruning with Self-Distillation for Efficient Model Compression**, AAAI 2024, [ :link: ](https://arxiv.org/abs/2402.00084)
+- **A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation**, TIP 2024, [ :link: ](https://arxiv.org/abs/2403.03483)[ :octocat: ](https://github.com/LirongWu/TGS)
+- **Restructuring the Teacher and Student in Self-Distillation**, TIP 2024, [ :link: ](https://ieeexplore.ieee.org/document/10693311)
+- **A Feature Map Fusion Self-Distillation Scheme for Image Classification Networks**, Electronics 2025, [ :link: ](https://www.mdpi.com/2079-9292/14/1/182) 
 
