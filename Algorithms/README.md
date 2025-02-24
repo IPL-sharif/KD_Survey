@@ -9,10 +9,44 @@
 *  [Contrastive Distillation](#Contrastive-Distillation)
 ---
 ## Attention Distillation
+- **Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer**, ICLR 2017, [ :link: ](https://arxiv.org/abs/1612.03928)[ :octocat: ](https://github.com/szagoruyko/attention-transfer)
+- **Knowledge Transfer with Jacobian Matching**, ICML 2018, [ :link: ](https://arxiv.org/abs/1803.00443)
+- **Class Attention Map Distillation for Efficient Semantic Segmentation**, MVIP 2020, [ :link: ](https://ieeexplore.ieee.org/document/9116875)
+- **Double Similarity Distillation for Semantic Image Segmentation**, TIP 2021, [ :link: ](https://arxiv.org/abs/2107.08591)
+- **Efficient Semantic Segmentation via Self-Attention and Self-Distillation**, T-ITS 2022, [ :link: ](https://ieeexplore.ieee.org/document/9678134)
+- **Class Attention Transfer for Semantic Segmentation**, AICAS 2022, [ :link: ](https://ieeexplore.ieee.org/document/9869901)[ :octocat: ](https://github.com/yubin1219/Semantic-Seg-KD)
+- **Hierarchical Multi-Attention Transfer for Knowledge Distillation**, ACM MM 2023, [ :link: ](https://dl.acm.org/doi/10.1145/3568679)
+- **Class Attention Transfer Based Knowledge Distillation**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2304.12777)[ :octocat: ](https://github.com/GzyAftermath/CAT-KD)
+- **Attention and feature transfer based knowledge distillation**, Nature 2023, [ :link: ](https://www.nature.com/articles/s41598-023-43986-y)
+- **Student-friendly knowledge distillation**, Knowledge-Based Systems 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005495)
+- **Channel-spatial knowledge distillation for efficient semantic segmentation**, Pattern Recognition 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S016786552400059X)[ :octocat: ](https://github.com/ayoubkarine/CSKD)
+- **SAKD: Sparse attention knowledge distillation**, Image and Video Computing 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001240)
+- **Knowledge Diffusion for Distillation**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2305.15712)[ :octocat: ](https://github.com/hunto/DiffKD)
+- **LAKD-Activation Mapping Distillation Based on Local Learning**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2408.11478)
+- **Attention-guided Feature Distillation for Semantic Segmentation**, CVIU 2025, [ :link: ](https://arxiv.org/abs/2403.05451)[ :octocat: ](https://github.com/AmirMansurian/AttnFD)
 
 ## Adversarial Distillation
 
 ## Multi-teacher Distillation
+- **Amalgamating knowledge towards comprehensive classification**, AAAI 2019, [ :link: ](https://dl.acm.org/doi/10.1609/aaai.v33i01.33013068)
+- **Knowledge amalgamation from heterogeneous networks by common feature learning**, IJCAI 2019, [ :link: ](https://dl.acm.org/doi/10.5555/3367243.3367468)[ :octocat: ](https://github.com/VainF/CommonFeatureLearning)
+- **Customizing Student Networks From Heterogeneous Teachers via Adaptive Knowledge Amalgamation**, ICCV 2019, [ :link: ](https://arxiv.org/abs/1908.07121)[ :octocat: ](https://github.com/UpCoder/KnowledgeAmalgamationModule)
+- **Unifying Heterogeneous Classifiers with Distillation**, CVPR 2019, [ :link: ](https://arxiv.org/abs/1904.06062)
+- **A Two-Teacher Framework for Knowledge Distillation**, ISNN 2019, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-030-22796-8_7)
+- **Collaboration by Competition: Self-coordinated Knowledge Amalgamation for Multi-talent Student Learning**, ECCV 2020, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-030-58539-6_38) 
+- **Ensemble Knowledge Distillation for Learning Improved and Efficient Networks**, ECAI 2020, [ :link: ](https://arxiv.org/abs/1909.08097) 
+- **FEED: Feature-level Ensemble for Knowledge Distillation**, ECAI 2020, [ :link: ](https://arxiv.org/abs/1909.10754) 
+- **Robust Semantic Segmentation With Multi-Teacher Knowledge Distillation**, IEEE Access 2021, [ :link: ](https://ieeexplore.ieee.org/document/9522137)
+- **Knowledge distillation guided by multiple homogeneous teachers**, Information Science 2022, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0020025522005576)
+- **MTED: multiple teachers ensemble distillation for compact semantic segmentation**, Neural Computing 2023, [ :link: ](https://link.springer.com/article/10.1007/s00521-023-08321-6) 
+- **Multi-teacher knowledge distillation based on joint Guidance of Probe and Adaptive Corrector**, Neural Networks 2023, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002010)
+- **Knowledge Amalgamation for Object Detection With Transformers**, TIP 2023, [ :link: ](https://ieeexplore.ieee.org/document/10091778)[ :octocat: ](https://github.com/zhfeing/Transformer-KA-PyTorch)
+- **Learning Lightweight Object Detectors via Multi-Teacher Progressive Distillation**, ICML 2023, [ :link: ](https://arxiv.org/abs/2308.09105)[ :octocat: ](https://github.com/Shengcao-Cao/MTPD)
+- **Adaptive Multi-Teacher Knowledge Distillation with Meta-Learning**, ICME 2023, [ :link: ](https://ieeexplore.ieee.org/document/10219996)[ :octocat: ](https://github.com/Rorozhl/MMKD)
+- **ATMKD: adaptive temperature guided multi-teacher knowledge distillation**, Multimedia Systems 2024, [ :link: ](https://link.springer.com/article/10.1007/s00530-024-01483-w) 
+- **Amalgamating Knowledge for Comprehensive Classification with Uncertainty Suppression**, ISCAS 2024, [ :link: ](https://ieeexplore.ieee.org/document/10557913/) 
+- **Relation-Based Multi-Teacher Knowledge Distillation**, IJCNN 2024, [ :link: ](https://ieeexplore.ieee.org/document/10650189) 
+- **DE-MKD: Decoupled Multi-Teacher Knowledge Distillation Based on Entropy**, Mathematics 2024, [ :link: ](https://www.mdpi.com/2227-7390/12/11/1672) 
 
 ## Cross-modal Distillation
 
@@ -41,6 +75,32 @@
 ## Graph-based Distillation
 
 ## Adaptive Distillation
+- **On the Efficacy of Knowledge Distillation**, ICCV 2019, [ :link: ](https://arxiv.org/abs/1910.01348)
+- **Knowledge Distillation for Semantic Segmentation Using Channel and Spatial Correlations and Adaptive Cross Entropy**, Sensors 2019, [ :link: ](https://www.mdpi.com/1424-8220/20/16/4616)
+- **Channel-wise attention for knowledge distillation**, Arxiv 2020, [ :link: ](https://arxiv.org/abs/2006.01683)
+- **Improved Knowledge Distillation via Teacher Assistant**, NeurIPS 2020, [ :link: ](https://arxiv.org/abs/1902.03393)[ :octocat: ](https://github.com/imirzadeh/Teacher-Assistant-Knowledge-Distillation)
+- **Heterogeneous Knowledge Distillation using Information Flow Modeling**, ECCV 2020, [ :link: ](https://arxiv.org/abs/2005.00727)[ :octocat: ](https://github.com/passalis/pkth)
+- **InDistill: Information flow-preserving knowledge distillation for model compression**, Arxiv 2022, [ :link: ](https://arxiv.org/abs/2205.10003)
+- **Prune Your Model Before Distill It**, ECCV 2022, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_8)[ :octocat: ](https://github.com/ososos888/prune-then-distill)
+- **Channel-Correlation-Based Selective Knowledge Distillation**, T-CDS 2022, [ :link: ](https://ieeexplore.ieee.org/document/10000398/)[ :octocat: ](https://github.com/gjplab/CCSKD)
+- **Adaptive Perspective Distillation for Semantic Segmentation**, T-MAPI 2022, [ :link: ](https://ieeexplore.ieee.org/document/9736597)[ :octocat: ](https://github.com/dvlab-research/APD)
+- **Category correlation and adaptive knowledge distillation for compact cloud detection in remote sensing images**, T-GRS 2022, [ :link: ](https://ieeexplore.ieee.org/document/9774409)
+- **Masked Distillation with Receptive Tokens**, ICLR 2023, [ :link: ](https://arxiv.org/abs/2205.14589)[ :octocat: ](https://github.com/hunto/MasKD)
+- **RdimKD: Generic Distillation Paradigm by Dimensionality Reduction**, Arxiv 2023, [ :link: ](https://arxiv.org/abs/2312.08700)
+- **Knowledge Distillation with Active Exploration and Self-Attention Based Inter-Class Variation Transfer for Image Segmentation**, ICASSP 2023, [ :link: ](https://ieeexplore.ieee.org/document/10097262)
+- **Holistic Weighted Distillation for Semantic Segmentation**, ICME 2023, [ :link: ](https://ieeexplore.ieee.org/document/10220035)[ :octocat: ](https://github.com/zju-SWJ/HWD)
+- **Enlightening the Student in Knowledge Distillation**, ICASSP 2023, [ :link: ](https://ieeexplore.ieee.org/document/10095328)[ :octocat: ](https://github.com/YujieZheng99/KDrefine)
+- **Multi-teacher knowledge distillation based on joint Guidance of Probe and Adaptive Corrector**, Neural Networks 2023, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002010)
+- **Attention and feature transfer based knowledge distillation**, Nature 2023, [ :link: ](https://www.nature.com/articles/s41598-023-43986-y)
+- **Similarity Knowledge Distillation with Calibrated Mask**, ICASSP 2024, [ :link: ](https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=3324)
+- **Coordinate Attention Guided Dual-Teacher Adaptive Knowledge Distillation for image classification**, ESWA 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0957417424007589)[ :octocat: ](https://github.com/mdt1219/CAG-DAKD/)
+- **Prune Channel And Distill: Discriminative Knowledge Distillation For Semantic Segmentation**, ICIP 2024, [ :link: ](https://cmsworkshops.com/ICIP2024/view_paper.php?PaperNum=1987)
+- **CS-KD: Confused Sample Knowledge Distillation for Semantic Segmentation of Aerial Imagery**, ICIC 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-981-97-5600-1_23)
+- **Adaptive class token knowledge distillation for efficient vision transformer**, Knowledge-Based Systems 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0950705124011651) 
+- **AFMPM: adaptive feature map pruning method based on feature distillation**, IJMLC 2024, [ :link: ](https://link.springer.com/article/10.1007/s13042-023-01926-2)
+- **Coordinate Attention Guided Dual-Teacher Adaptive Knowledge Distillation for image classification**, ESWA 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0957417424007589)
+- **Maximizing discrimination capability of knowledge distillation with energy function**, Knowledge-Based Systems 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005458)[ :octocat: ](https://github.com/Seonghak35/EnergyKD)
+- **Adaptive Inter-Class Similarity Distillation for Semantic Segmentation**, MTAP 2025, [ :link: ](https://link.springer.com/article/10.1007/s11042-025-20651-2)[ :octocat: ](https://github.com/AmirMansurian/AICSD)
 
 ## Contrastive Distillation
 * Dimensionality Reduction by Learning an Invariant Mapping - 2006 - [paper](https://ieeexplore.ieee.org/abstract/document/1640964)
