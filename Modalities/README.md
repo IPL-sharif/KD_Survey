@@ -48,8 +48,8 @@
 ## Speech
 
 ## Video
-* **MobileVOS: Real-Time Video Object Segmentation Contrastive Learning meets Knowledge Distillation**, CVPR 2024, [paper](https://arxiv.org/abs/2303.07815) [code]()
-* **Offline-to-Online Knowledge Distillation for Video Instance Segmentation**, WACV 2024, [paper]([https://arxiv.org/abs/2303.07815](https://arxiv.org/abs/2302.07516)) [code]()
-* **Dual Learning with Dynamic Knowledge Distillation for Partially Relevant Video Retrieval**, ICCV 2023, [paper]() [code]()
+* **MobileVOS: Real-Time Video Object Segmentation Contrastive Learning meets Knowledge Distillation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2303.07815) [ :octocat: ]()
+* **Offline-to-Online Knowledge Distillation for Video Instance Segmentation**, WACV 2024, [ :link: ]([https://arxiv.org/abs/2303.07815](https://arxiv.org/abs/2302.07516)) [ :octocat: ]()
+* **Dual Learning with Dynamic Knowledge Distillation for Partially Relevant Video Retrieval**, ICCV 2023, [ :link: ]() [ :octocat: ]()
 
 
