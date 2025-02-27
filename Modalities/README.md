@@ -48,8 +48,10 @@
 ## Speech
 
 ## Video
-* **MobileVOS: Real-Time Video Object Segmentation Contrastive Learning meets Knowledge Distillation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2303.07815) [ :octocat: ]()
-* **Offline-to-Online Knowledge Distillation for Video Instance Segmentation**, WACV 2024, [ :link: ]([https://arxiv.org/abs/2303.07815](https://arxiv.org/abs/2302.07516)) [ :octocat: ]()
-* **Dual Learning with Dynamic Knowledge Distillation for Partially Relevant Video Retrieval**, ICCV 2023, [ :link: ]() [ :octocat: ]()
+* **MobileVOS: Real-Time Video Object Segmentation Contrastive Learning meets Knowledge Distillation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2303.07815) 
+* **Offline-to-Online Knowledge Distillation for Video Instance Segmentation**, WACV 2024, [ :link: ]([https://arxiv.org/abs/2303.07815](https://arxiv.org/abs/2302.07516)) 
+* **Dual Learning with Dynamic Knowledge Distillation for Partially Relevant Video Retrieval**, ICCV 2023, [ :link: ]()
+* **Knowledge Distillation in Video-Based Human Action Recognition: An Intuitive Approach to Efficient and Flexible Model Training**, Journal of Imaging 2024, [ :link: ](https://www.mdpi.com/2313-433X/10/4/85)
+* **Generative Model-Based Feature Knowledge Distillation for Action Recognition**, AAAI 2024, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/29473) [ :octocat: ](https://github.com/aaai-24/Generative-based-KD)
 
 
