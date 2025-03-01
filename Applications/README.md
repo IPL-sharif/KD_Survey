@@ -211,21 +211,20 @@
 
 ### Face Recognition
 
-- **Teacher Supervises Students How to Learn From Partially Labeled Images for Facial Landmark Detection**, ICCV 2019, [ :link: ]()[ :octocat: ]()
-- **MarginDistillation: distillation for margin-based softmax**, automation and remote control 2021, [ :link: ]()[ :octocat: ]()
-- **Fair Feature Distillation for Visual Recognition**, CVPR 2021, [ :link: ]()
-- **Rectifying the Data Bias in Knowledge Distillation**, ICCV 2021, [ :link: ]()
-- **Teaching Where to Look: Attention Similarity Knowledge Distillation for Low Resolution Face Recognition**, ECCV 2022, [ :link: ]()
-- **AdaDistill: Adaptive Knowledge Distillation for Deep Face Recognition**, ECCV 2024, [ :link: ]()[ :octocat: ]()
-- **SynthDistill: Face Recognition with Knowledge Distillation from Synthetic Data**,  IJCB 2023, [ :link: ]()[ :octocat: ]()
-- **Synthetic Gap Mitigation using Knowledge Distillation in Fair Face Recognition**, ECCV Workshop 2024, [ :link: ]()[ :octocat: ]()
-- **MST-KD: Multiple Specialized Teachers Knowledge Distillation for Fair Face Recognition**, ECCV Workshop 2024, [ :link: ]()[ :octocat: ]()
-- **Evaluation-oriented knowledge distillation for deep face recognition**, CVPR 2022, [ :link: ]()
-- **Rethinking Feature-Based Knowledge Distillation for Face Recognition**, CVPR 2023, [ :link: ]()
-- **Probabilistic Knowledge Distillation of Face Ensembles**, CVPR 2023, [ :link: ]()
-- **Enhanced Face Recognition using Intra-class Incoherence Constraint**, ICLR 2024, [ :link: ]()
-- **ProS: Facial Omni-Representation Learning via Prototype-Based Self-Distillation**, WACV 2024, [ :link: ]()
-- **AI-KD: Towards Alignment Invariant Face Image Quality Assessment Using Knowledge Distillation**, IWBF 2024, [ :link: ]()[ :octocat: ]()
+- **Teacher Supervises Students How to Learn From Partially Labeled Images for Facial Landmark Detection**, ICCV 2019, [ :link: ](https://www.computer.org/csdl/proceedings-article/iccv/2019/480300a783/1hVluoqyK76)[ :octocat: ](https://github.com/D-X-Y/landmark-detection/blob/master/README.md)
+- **Fair Feature Distillation for Visual Recognition**, CVPR 2021, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2021/450900m2110/1yeLDUXHocw)
+- **Rectifying the Data Bias in Knowledge Distillation**, ICCV 2021, [ :link: ](https://www.computer.org/csdl/proceedings-article/iccvw/2021/019100b477/1yNizRLoAcU)
+- **Teaching Where to Look: Attention Similarity Knowledge Distillation for Low Resolution Face Recognition**, ECCV 2022, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_37)[ :octocat: ](https://github.com/gist-ailab/teaching-where-to-look)
+- **AdaDistill: Adaptive Knowledge Distillation for Deep Face Recognition**, ECCV 2024, [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07206.pdf)[ :octocat: ](https://github.com/fdbtrs/AdaDistill)
+- **SynthDistill: Face Recognition with Knowledge Distillation from Synthetic Data**,  IJCB 2023, [ :link: ](https://ieeexplore.ieee.org/iel7/10447019/10448524/10448642.pdf)[ :octocat: ](https://github.com/otroshi/synthdistill)
+- **How Knowledge Distillation Mitigates the Synthetic Gap in Fair Face Recognition**, ECCV Workshop 2024, [ :link: ](https://www.semanticscholar.org/paper/How-Knowledge-Distillation-Mitigates-the-Synthetic-Neto-Colakovic/b55f6a85e701b5f6888f17c1e60212caba480d69)[ :octocat: ](https://github.com/ivonacolakovic/SynthGap-mitigation-using-KD-in-FFR)
+- **MST-KD: Multiple Specialized Teachers Knowledge Distillation for Fair Face Recognition**, ECCV Workshop 2024, [ :link: ](https://arxiv.org/abs/2408.16563)[ :octocat: ](https://github.com/eduardacaldeira/mst-kd)
+- **Evaluation-oriented knowledge distillation for deep face recognition**, CVPR 2022, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2022/694600s8719/1H1i2PcK9e8)
+- **Rethinking Feature-Based Knowledge Distillation for Face Recognition**, CVPR 2023, [ :link: ](https://ieeexplore.ieee.org/document/10203514/)
+- **Probabilistic Knowledge Distillation of Face Ensembles**, CVPR 2023, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2023/012900d489/1POSs2wz09G)
+- **Enhanced Face Recognition using Intra-class Incoherence Constraint**, ICLR 2024, [ :link: ](https://www.semanticscholar.org/paper/Enhanced-Face-Recognition-using-Intra-class-Huang-Wang/e77ea8899e20255a049aa9ee4f473c7415a06bf8)
+- **ProS: Facial Omni-Representation Learning via Prototype-Based Self-Distillation**, WACV 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/wacv/2024/189200g075/1W0cHrWzX4Q)
+- **AI-KD: Towards Alignment Invariant Face Image Quality Assessment Using Knowledge Distillation**, IWBF 2024, [ :link: ](https://ieeexplore.ieee.org/iel8/10592864/10592870/10593907.pdf)[ :octocat: ](https://github.com/LSIbabnikz/AI-KD)
 
 ### Action recognition
 
