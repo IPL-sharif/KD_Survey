@@ -52,6 +52,7 @@
 * **Multi-teacher knowledge distillation for compressed video action recognition based on deep learning**, Journal of systems architecture 2020, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S1383762119305028)
 * **Generative Model-Based Feature Knowledge Distillation for Action Recognition**, AAAI 2024, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/29473) [ :octocat: ](https://github.com/aaai-24/Generative-based-KD)
 * **Advancing Compressed Video Action Recognition through Progressive Knowledge Distillation**, arxive 2024, [ :link: ](https://arxiv.org/abs/2407.02713) [ :octocat: ](https://github.com/Efstathia-Soufleri/PKD)
+* **Attention Distillation for Learning Video Representations**, arxive 2019, [ :link: ](https://aptx4869lm.github.io/AttentionDistillation/)
 
 
 
