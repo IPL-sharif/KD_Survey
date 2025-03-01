@@ -1,6 +1,8 @@
 ## Distillation Applications
 *  [Large Language Models](#Large-Language-Models)
 *  [Self-Supervised Learning](#Self-Supervised-Learning)
+*  [Knowledge Distillation in Visual Recognition](#Knowledge Distillation in Visual Recognition)
+
 ---
 
 
@@ -55,9 +57,9 @@
 - **Multi-Mode Online Knowledge Distillation for Self-Supervised Visual Representation Learning**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2304.06461)[ :octocat: ](https://github.com/skyoux/mokd)
 - **DINOv2: Learning Robust Visual Features without Supervision**, TMLR 2024, [ :link: ](https://arxiv.org/abs/2304.07193)[ :octocat: ](https://github.com/facebookresearch/dinov2)
 
-# Knowledge Distillation in Visual Recognition
+## Knowledge Distillation in Visual Recognition
 
-## Object Detection
+### Object Detection
 
 - **Learning Efficient Object Detection Models with Knowledge Distillation**, NIPS 2017, 🔗 [Paper](#)
 - **Distilling Object Detectors with Fine-grained Feature Imitation**, CVPR 2019, 🔗 [Paper](#) :octocat: [GitHub](#)
@@ -97,8 +99,8 @@ in Dense Object Detection**, ICCV 2023, 🔗 [Paper](#)
 - **Gradient-Guided Knowledge Distillation for Object Detectors**, WACV 2024, 🔗 [Paper](#)
 - **Efficient Feature Distillation for Zero-Shot Annotation Object Detection**, WACV 2024, 🔗 [Paper](#)
 - **Localization distillation for object detection**, IEEE TPAMI 2023, 🔗 [Paper](#) :octocat: [GitHub](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-## Super Resolution
+
+### Super Resolution
 
 - **Image Super-Resolution Using Knowledge Distillation**, ACCV 2018, 🔗 [Paper](#)
 - **Feature-Affinity Based Knowledge Distillation for Efficient Image Super-Resolution**, ICIP 2020, 🔗 [Paper](#) :octocat: [GitHub](#)
@@ -117,8 +119,8 @@ in Dense Object Detection**, ICCV 2023, 🔗 [Paper](#)
 - **SinSR: Diffusion-Based Image Super-Resolution in a Single Step**, CVPR 2024, 🔗 [Paper](#)
 - **OSFFNet: Omni-Stage Feature Fusion Network for Lightweight Image Super-Resolution**, AAAI 2024, 🔗 [Paper](#)
 - **Semantic Super-Resolution via Self-Distillation and Adversarial Learning**,  IEEE Access 2024, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-## Image Segmentation
+
+### Image Segmentation
 
 - **Structured knowledge distillation for semantic segmentation**, CVPR 2019, 🔗 [Paper](#) :octocat: [GitHub](#)
 - **Knowledge Adaptation for Efficient Semantic Segmentation**, CVPR 2019, 🔗 [Paper](#)
@@ -148,9 +150,9 @@ in Dense Object Detection**, ICCV 2023, 🔗 [Paper](#)
 - **Rethinking Knowledge Distillation With Raw Features for Semantic Segmentation**, WACV 2024, 🔗 [Paper](#)
 - **BPKD: Boundary Privileged Knowledge Distillation for Semantic Segmentation**, WACV 2024, 🔗 [Paper](#) :octocat: [GitHub](#)
 - **Guided Distillation for Semi-Supervised Instance Segmentation**, WACV 2024, 🔗 [Paper](#) :octocat: [GitHub](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
 - **AICSD: Adaptive Inter-Class Similarity Distillation for Semantic Segmentation**, arxiv 2023, 🔗 [Paper](#) :octocat: [GitHub](#)
-## Depth Estimation
+
+### Depth Estimation
 
 - **Knowledge Distillation for Fast and Accurate Monocular Depth Estimation on Mobile Devices**, CVPRW 2021, 🔗 [Paper](#)
 - **Realtime single image depth perception in the wild with handheld devices**, Sensors 2021, 🔗 [Paper](#)
@@ -171,9 +173,8 @@ in Dense Object Detection**, ICCV 2023, 🔗 [Paper](#)
 - ** Monocular Depth Estimation via Self-Supervised Self-Distillation **, Sensors 2024, 🔗 [Paper](#)
 - **MAL: Motion-Aware Loss with Temporal and Distillation Hints for Self-Supervised Depth Estimation**, ICRA 2024, 🔗 [Paper](#)
 - **Stereo-Matching Knowledge Distilled Monocular Depth Estimation Filtered by Multiple Disparity Consistency**, ICASSP 2024, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-## Medical
+
+### Medical Image Analysis
 
 - **HDKD: Hybrid Data-Efficient Knowledge Distillation Network for Medical Image Classification**, Journal - Engineering Applications of Artificial Intelligence 2024, 🔗 [Paper](#) :octocat: [GitHub](#)
 - **ShapeKD: Shape Knowledge Distillation for Medical Image Segmentation**,   journal - Front. Comput. Sci 2024, 🔗 [Paper](#) :octocat: [GitHub](#)
@@ -199,22 +200,17 @@ in Dense Object Detection**, ICCV 2023, 🔗 [Paper](#)
 - **Hallucinated Style Distillation for Single Domain Generalization in Medical Image Segmentation**, MICCAI 2024, 🔗 [Paper](#)
 - **Progressively Correcting Soft Labels via Teacher Team for Knowledge Distillation in Medical Image Segmentation**, MICCAI 2024, 🔗 [Paper](#)
 - **Reprogramming Distillation for Medical Foundation Models**, MICCAI 2024, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-## Object Tracking
 
-- **There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge
-**, CVPR 2021, 🔗 [Paper](#) :octocat: [GitHub](#)
-- **Ensemble learning with siamese networks for visual tracking **, Neurocomputing 2021, 🔗 [Paper](#)
+### Object Tracking
+
+- **There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**, CVPR 2021, 🔗 [Paper](#) :octocat: [GitHub](#)
+- **Ensemble learning with siamese networks for visual tracking**, Neurocomputing 2021, 🔗 [Paper](#)
 - **Distilled Siamese Networks for Visual Tracking**, TPAMI 2022, 🔗 [Paper](#)
 - **SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking**, CVPR 2024, 🔗 [Paper](#) :octocat: [GitHub](#)
 - **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**, CVPR 2024, 🔗 [Paper](#) :octocat: [GitHub](#)
 - **Object Knowledge Distillation for Joint Detection and Tracking in Satellite Videos**, IEEE Transactions on Geoscience and Remote Sensing  2024, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-## Face Recognition
+
+### Face Recognition
 
 - **Teacher Supervises Students How to Learn From Partially Labeled Images for Facial Landmark Detection**, ICCV 2019, 🔗 [Paper](#) :octocat: [GitHub](#)
 - **MarginDistillation: distillation for margin-based softmax**, automation and remote control 2021, 🔗 [Paper](#) :octocat: [GitHub](#)
@@ -231,10 +227,8 @@ in Dense Object Detection**, ICCV 2023, 🔗 [Paper](#)
 - **Enhanced Face Recognition using Intra-class Incoherence Constraint**, ICLR 2024, 🔗 [Paper](#)
 - **ProS: Facial Omni-Representation Learning via Prototype-Based Self-Distillation**, WACV 2024, 🔗 [Paper](#)
 - **AI-KD: Towards Alignment Invariant Face Image Quality Assessment Using Knowledge Distillation**, IWBF 2024, 🔗 [Paper](#) :octocat: [GitHub](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-## action recog.
+
+### Action recognition
 
 - **Learning an augmented rgb representation with cross-modal knowledge distillation for action detection**, ICCV 2021, 🔗 [Paper](#)
 - **Privileged Knowledge Distillation for Online Action Detection**, Pattern recognition 2022, 🔗 [Paper](#)
@@ -243,11 +237,10 @@ in Dense Object Detection**, ICCV 2023, 🔗 [Paper](#)
 - **Decomposed Cross-Modal Distillation for RGB-Based Temporal Action Detection**, CVPR 2023, 🔗 [Paper](#)
 - **Generative Model-Based Feature Knowledge Distillation for Action Recognition**, AAAI 2024, 🔗 [Paper](#)
 - **FROSTER: Frozen CLIP is A Strong Teacher for Open-Vocabulary Action Recognition**, ICLR 2024, 🔗 [Paper](#) :octocat: [GitHub](#)
-- **Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition **, ICCV 2021, 🔗 [Paper](#) :octocat: [GitHub](#)
+- **Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition**, ICCV 2021, 🔗 [Paper](#) :octocat: [GitHub](#)
 - **Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition**, IEEE Trans. Image Processing 2021, 🔗 [Paper](#) :octocat: [GitHub](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-## Pose Estimation
+
+### Pose Estimation
 
 - **DistilPose: Tokenized Pose Regression With Heatmap Distillation**, CVPR 2023, 🔗 [Paper](#) :octocat: [GitHub](#)
 - **Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions**, CVPR 2023, 🔗 [Paper](#) :octocat: [GitHub](#)
@@ -262,11 +255,8 @@ in Dense Object Detection**, ICCV 2023, 🔗 [Paper](#)
 - **ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**, NeurIPS 2022, 🔗 [Paper](#) :octocat: [GitHub](#)
 - **Dynamic Kernel Distillation for Efficient Pose Estimation in Videos**, ICCV 2019, 🔗 [Paper](#)
 - **Fast Human Pose Estimation**, CVPR 2019, 🔗 [Paper](#) :octocat: [GitHub](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-- **nan**, N/A N/A, 🔗 [Paper](#)
-## image retrieval
+
+### Image retrieval
 
 - **Uncertainty-aware multi-shot knowledge distillation for image-based object re-identification**, AAAI 2020, 🔗 [Paper](#)
 - **Robust re-identification by multiple views knowledge distillation**, ECCV 2020, 🔗 [Paper](#)
