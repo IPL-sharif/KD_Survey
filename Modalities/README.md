@@ -64,4 +64,7 @@
 *  **Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Masked_Video_Distillation_Rethinking_Masked_Feature_Modeling_for_Self-Supervised_Video_CVPR_2023_paper.html) [ :octocat: ](https://github.com/ruiwang2021/mvd)
 *  **RankDVQA-mini: Knowledge distillation-driven deep video quality assessment**, Picture Coding Symposium (PCS) 2024, [ :link: ](https://ieeexplore.ieee.org/document/10566364) [ :octocat: ](https://chenfeng-bristol.github.io/RankDVQA-mini/)
 *  **Ultrafast Video Attention Prediction with Coupled Knowledge Distillation**, AAAI 2020, [ :link: ](https://cdn.aaai.org/ojs/6710/6710-13-9939-1-10-20200522.pdf)
-*  
+*  **Online Model Distillation for Efficient Video Inference**, ICCV 2019, [ :link: ](https://openaccess.thecvf.com/content_ICCV_2019/html/Mullapudi_Online_Model_Distillation_for_Efficient_Video_Inference_ICCV_2019_paper.html)
+*  **VideoAdviser: Video Knowledge Distillation for Multimodal Transfer Learning**, IEEE Access 2023, [ :link: ](https://ieeexplore.ieee.org/document/10136716?denied=)
+*  **Asr is all you need: Cross-modal distillation for lip reading**, ICASSP 2020, [ :link: ](https://arxiv.org/pdf/1911.12747)
+*  **Audio–Visual Model Distillation Using Acoustic Images**, WACV 2020, [ :link: ](https://openaccess.thecvf.com/content_WACV_2020/html/Perez_Audio-Visual_Model_Distillation_Using_Acoustic_Images_WACV_2020_paper.html)
