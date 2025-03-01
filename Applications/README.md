@@ -238,6 +238,7 @@
 - **Generative Model-Based Feature Knowledge Distillation for Action Recognition**, AAAI 2024, [ :link: ](https://www.semanticscholar.org/paper/Generative-Model-based-Feature-Knowledge-for-Action-Wang-Zhao/b4986187b799aff146c5a7e7dbbb6cab9e0fb24a)[ :octocat: ](https://github.com/aaai-24/Generative-based-KD)
 - **FROSTER: Frozen CLIP is A Strong Teacher for Open-Vocabulary Action Recognition**, ICLR 2024, [ :link: ](https://visual-ai.github.io/froster/)[ :octocat: ](https://github.com/Visual-AI/FROSTER)
 
+### Pose Estimation
 
 - **DistilPose: Tokenized Pose Regression With Heatmap Distillation**, CVPR 2023, [ :link: ]()[ :octocat: ]()
 - **Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions**, CVPR 2023, [ :link: ]()[ :octocat: ]()
