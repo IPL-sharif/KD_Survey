@@ -1,7 +1,8 @@
 ## Distillation Applications
 *  [Large Language Models](#Large-Language-Models)
 *  [Self-Supervised Learning](#Self-Supervised-Learning)
-*  [Knowledge Distillation in Visual Recognition](#Knowledge Distillation in Visual Recognition)
+* [Knowledge Distillation in Visual Recognition](#knowledge-distillation-in-visual-recognition)
+
 
 ---
 
