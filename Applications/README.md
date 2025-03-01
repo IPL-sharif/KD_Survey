@@ -228,17 +228,16 @@
 
 ### Action recognition
 
-- **Learning an augmented rgb representation with cross-modal knowledge distillation for action detection**, ICCV 2021, [ :link: ]()
-- **Privileged Knowledge Distillation for Online Action Detection**, Pattern recognition 2022, [ :link: ]()
-- **Multimodal Distillation for Egocentric Action Recognition**, ICCV 2023, [ :link: ]()[ :octocat: ]()
-- **FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation**, ICCV 2023, [ :link: ]()
-- **Decomposed Cross-Modal Distillation for RGB-Based Temporal Action Detection**, CVPR 2023, [ :link: ]()
-- **Generative Model-Based Feature Knowledge Distillation for Action Recognition**, AAAI 2024, [ :link: ]()
-- **FROSTER: Frozen CLIP is A Strong Teacher for Open-Vocabulary Action Recognition**, ICLR 2024, [ :link: ]()[ :octocat: ]()
-- **Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition**, ICCV 2021, [ :link: ]()[ :octocat: ]()
-- **Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition**, IEEE Trans. Image Processing 2021, [ :link: ]()[ :octocat: ]()
+- **Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition**, IEEE Trans. Image Processing 2021, [ :link: ](https://ieeexplore.ieee.org/document/9351789/)[ :octocat: ](https://github.com/xiaochehe/SKD)
+- **Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition**, ICCV 2021, [ :link: ](https://www.computer.org/csdl/proceedings-article/iccv/2021/281200j234/1BmI6MaLeO4)[ :octocat: ](https://github.com/jhong93/vpd)
+- **Learning an Augmented RGB Representation with Cross-modal Knowledge Distillation for Action Detection**, ICCV 2021, [ :link: ](https://www.computer.org/csdl/proceedings-article/iccv/2021/281200n3033/1BmLjRNSMCc)
+- **Privileged Knowledge Distillation for Online Action Detection**, Pattern recognition 2022, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0031320322002229)
+- **Multimodal Distillation for Egocentric Action Recognition**, ICCV 2023, [ :link: ](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800f190/1TJfgPEizmg)[ :octocat: ](https://github.com/gorjanradevski/multimodal-distillation)
+- **FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation**, ICCV 2023, [ :link: ](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800k0366/1TJgWLrpWmY)
+- **Decomposed Cross-Modal Distillation for RGB-Based Temporal Action Detection**, CVPR 2023, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2023/012900c373/1POR41xvAcg)
+- **Generative Model-Based Feature Knowledge Distillation for Action Recognition**, AAAI 2024, [ :link: ](https://www.semanticscholar.org/paper/Generative-Model-based-Feature-Knowledge-for-Action-Wang-Zhao/b4986187b799aff146c5a7e7dbbb6cab9e0fb24a)[ :octocat: ](https://github.com/aaai-24/Generative-based-KD)
+- **FROSTER: Frozen CLIP is A Strong Teacher for Open-Vocabulary Action Recognition**, ICLR 2024, [ :link: ](https://visual-ai.github.io/froster/)[ :octocat: ](https://github.com/Visual-AI/FROSTER)
 
-### Pose Estimation
 
 - **DistilPose: Tokenized Pose Regression With Heatmap Distillation**, CVPR 2023, [ :link: ]()[ :octocat: ]()
 - **Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions**, CVPR 2023, [ :link: ]()[ :octocat: ]()
