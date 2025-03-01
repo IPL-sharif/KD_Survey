@@ -59,3 +59,6 @@
 * **Let Video Teaches You More: Video-to-Image Knowledge Distillation using DEtection TRansformer for Medical Video Lesion Detection**, IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822332/23oo174OOd2)
 * **Offline-to-Online Knowledge Distillation for Video Instance Segmentation**, WACV 2024, [ :link: ](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.html) 
 * **Dual Learning with Dynamic Knowledge Distillation for Partially Relevant Video Retrieval**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/html/Dong_Dual_Learning_with_Dynamic_Knowledge_Distillation_for_Partially_Relevant_Video_ICCV_2023_paper.html) [ :octocat: ](https://github.com/HuiGuanLab/DL-DKD)
+*  **How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Monti_How_Many_Observations_Are_Enough_Knowledge_Distillation_for_Trajectory_Forecasting_CVPR_2022_paper.html)
+*  **Mask Again: Masked Knowledge Distillation for Masked Video Modeling**, ACM 2023, [ :link: ](https://dl.acm.org/doi/10.1145/3581783.3612129) [ :octocat: ](https://github.com/xiaojieli0903/MaskAgain)
+*  
