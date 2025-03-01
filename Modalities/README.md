@@ -60,7 +60,8 @@
 * **Let Video Teaches You More: Video-to-Image Knowledge Distillation using DEtection TRansformer for Medical Video Lesion Detection**, IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822332/23oo174OOd2)
 * **Offline-to-Online Knowledge Distillation for Video Instance Segmentation**, WACV 2024, [ :link: ](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.html) 
 * **Dual Learning with Dynamic Knowledge Distillation for Partially Relevant Video Retrieval**, ICCV 2023, [ :link: ]()
-* 
+* **The Staged Knowledge Distillation in Video Classification: Harmonizing Student Progress by a Complementary Weakly Supervised Framework**, IEEE Transactions on Circuits and Systems for Video Technology 2024, [ :link: ](https://ieeexplore.ieee.org/document/10182291)
+* **Efficient Video Classification Using Fewer Frames**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/html/Bhardwaj_Efficient_Video_Classification_Using_Fewer_Frames_CVPR_2019_paper.html)
 
 
 
