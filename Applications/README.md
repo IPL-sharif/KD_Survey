@@ -92,12 +92,12 @@
 - **UniKD: Universal Knowledge Distillation for Mimicking Homogeneous or Heterogeneous Object Detectors**, ICCV 2023, [ :link: ](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800g339/1TJeOT8Jnc4)
 - **Texture-Guided Saliency Distilling for Unsupervised Salient Object Detection**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Texture-Guided_Saliency_Distilling_for_Unsupervised_Salient_Object_Detection_CVPR_2023_paper.pdf)[ :octocat: ](https://github.com/moothes/A2S-v2)
 - **Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection**, CVPR 2023, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2023/012900l1186/1POPYYaayli)[ :octocat: ](https://github.com/LutingWang/OADP)
+- **Localization distillation for object detection**, IEEE TPAMI 2023, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2022/694600j397/1H0LhSBFO4U)[ :octocat: ](https://github.com/HikariTJU/LD)
 - **CrossKD: Cross-Head Knowledge Distillation for Dense Object Detection**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_CrossKD_Cross-Head_Knowledge_Distillation_for_Object_Detection_CVPR_2024_paper.pdf)[ :octocat: ](https://github.com/jbwang1997/CrossKD)
 - **MSSD: multi-scale self-distillation for object detection**, Visual Intelligence  2024, [ :link: ](https://link.springer.com/article/10.1007/s44267-024-00040-3)
 - **CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction**, ICLR 2024, [ :link: ](https://wusize.github.io/publication/clipself)[ :octocat: ](https://github.com/wusize/CLIPSelf)
 - **Gradient-Guided Knowledge Distillation for Object Detectors**, WACV 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/wacv/2024/189200a423/1W0f2CZ4xPO)
 - **Efficient Feature Distillation for Zero-Shot Annotation Object Detection**, WACV 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/wacv/2024/189200a882/1W0cAEU3FVC)[ :octocat: ](https://github.com/dragonlzm/EZAD)
-- **Localization distillation for object detection**, IEEE TPAMI 2023, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2022/694600j397/1H0LhSBFO4U)[ :octocat: ](https://github.com/HikariTJU/LD)
 
 ### Super Resolution
 
@@ -143,13 +143,13 @@
 - **Incrementer: Transformer for Class-Incremental Semantic Segmentation With Knowledge Distillation Focusing on Old Class**, CVPR 2023, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2023/012900h214/1PONQmM6id2)
 - **FAKD: Feature Augmented Knowledge Distillation for Semantic Segmentation**, WACV 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/wacv/2024/189200a584/1W0dpRl3Exa)
 - **Knowledge Distillation for Efficient Instance Semantic Segmentation with Transformers**, CVPRW 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvprw/2024/654700f432/20A3pIxbIm4)
-- **Distilling efficient Vision Transformers from CNNs for semantic segmentation**, Pattern Recognition 2025, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0031320324007805)
 - **CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction**, ICLR 2024, [ :link: ](https://wusize.github.io/publication/clipself)[ :octocat: ](https://github.com/wusize/CLIPSelf)
 - **P2Seg: Pointly-supervised Segmentation via Mutual Distillation**, ICLR 2024, [ :link: ](https://arxiv.org/abs/2401.09709)[ :octocat: ](https://github.com/ucas-vg/P2Seg-Public)
 - **Rethinking Knowledge Distillation With Raw Features for Semantic Segmentation**, WACV 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/wacv/2024/189200b144/1W0fgmH3wFW)
 - **BPKD: Boundary Privileged Knowledge Distillation for Semantic Segmentation**, WACV 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/wacv/2024/189200b051/1W0cPBOBJlu)[ :octocat: ](https://github.com/AkideLiu/BPKD)
 - **Guided Distillation for Semi-Supervised Instance Segmentation**, WACV 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/wacv/2024/189200a464/1W0eryUjSnK)[ :octocat: ](https://github.com/facebookresearch/GuidedDistillation)
-- **AICSD: Adaptive Inter-Class Similarity Distillation for Semantic Segmentation**, arxiv 2023, [ :link: ](https://link.springer.com/article/10.1007/s11042-025-20651-2)[ :octocat: ](https://github.com/AmirMansurian/AICSD)
+- **Distilling efficient Vision Transformers from CNNs for semantic segmentation**, Pattern Recognition 2025, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0031320324007805)
+- **AICSD: Adaptive Inter-Class Similarity Distillation for Semantic Segmentation**, Multimedia Tools and Applications 2025, [ :link: ](https://link.springer.com/article/10.1007/s11042-025-20651-2)[ :octocat: ](https://github.com/AmirMansurian/AICSD)
 
 ### Depth Estimation
 
@@ -215,18 +215,18 @@
 - **Fair Feature Distillation for Visual Recognition**, CVPR 2021, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2021/450900m2110/1yeLDUXHocw)
 - **Rectifying the Data Bias in Knowledge Distillation**, ICCV 2021, [ :link: ](https://www.computer.org/csdl/proceedings-article/iccvw/2021/019100b477/1yNizRLoAcU)
 - **Teaching Where to Look: Attention Similarity Knowledge Distillation for Low Resolution Face Recognition**, ECCV 2022, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_37)[ :octocat: ](https://github.com/gist-ailab/teaching-where-to-look)
-- **AdaDistill: Adaptive Knowledge Distillation for Deep Face Recognition**, ECCV 2024, [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07206.pdf)[ :octocat: ](https://github.com/fdbtrs/AdaDistill)
-- **SynthDistill: Face Recognition with Knowledge Distillation from Synthetic Data**,  IJCB 2023, [ :link: ](https://ieeexplore.ieee.org/iel7/10447019/10448524/10448642.pdf)[ :octocat: ](https://github.com/otroshi/synthdistill)
-- **How Knowledge Distillation Mitigates the Synthetic Gap in Fair Face Recognition**, ECCV Workshop 2024, [ :link: ](https://www.semanticscholar.org/paper/How-Knowledge-Distillation-Mitigates-the-Synthetic-Neto-Colakovic/b55f6a85e701b5f6888f17c1e60212caba480d69)[ :octocat: ](https://github.com/ivonacolakovic/SynthGap-mitigation-using-KD-in-FFR)
-- **MST-KD: Multiple Specialized Teachers Knowledge Distillation for Fair Face Recognition**, ECCV Workshop 2024, [ :link: ](https://arxiv.org/abs/2408.16563)[ :octocat: ](https://github.com/eduardacaldeira/mst-kd)
 - **Evaluation-oriented knowledge distillation for deep face recognition**, CVPR 2022, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2022/694600s8719/1H1i2PcK9e8)
 - **Rethinking Feature-Based Knowledge Distillation for Face Recognition**, CVPR 2023, [ :link: ](https://ieeexplore.ieee.org/document/10203514/)
 - **Probabilistic Knowledge Distillation of Face Ensembles**, CVPR 2023, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2023/012900d489/1POSs2wz09G)
+- **SynthDistill: Face Recognition with Knowledge Distillation from Synthetic Data**,  IJCB 2023, [ :link: ](https://ieeexplore.ieee.org/iel7/10447019/10448524/10448642.pdf)[ :octocat: ](https://github.com/otroshi/synthdistill)
+- **AdaDistill: Adaptive Knowledge Distillation for Deep Face Recognition**, ECCV 2024, [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07206.pdf)[ :octocat: ](https://github.com/fdbtrs/AdaDistill)
+- **How Knowledge Distillation Mitigates the Synthetic Gap in Fair Face Recognition**, ECCV Workshop 2024, [ :link: ](https://www.semanticscholar.org/paper/How-Knowledge-Distillation-Mitigates-the-Synthetic-Neto-Colakovic/b55f6a85e701b5f6888f17c1e60212caba480d69)[ :octocat: ](https://github.com/ivonacolakovic/SynthGap-mitigation-using-KD-in-FFR)
+- **MST-KD: Multiple Specialized Teachers Knowledge Distillation for Fair Face Recognition**, ECCV Workshop 2024, [ :link: ](https://arxiv.org/abs/2408.16563)[ :octocat: ](https://github.com/eduardacaldeira/mst-kd)
 - **Enhanced Face Recognition using Intra-class Incoherence Constraint**, ICLR 2024, [ :link: ](https://www.semanticscholar.org/paper/Enhanced-Face-Recognition-using-Intra-class-Huang-Wang/e77ea8899e20255a049aa9ee4f473c7415a06bf8)
 - **ProS: Facial Omni-Representation Learning via Prototype-Based Self-Distillation**, WACV 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/wacv/2024/189200g075/1W0cHrWzX4Q)
 - **AI-KD: Towards Alignment Invariant Face Image Quality Assessment Using Knowledge Distillation**, IWBF 2024, [ :link: ](https://ieeexplore.ieee.org/iel8/10592864/10592870/10593907.pdf)[ :octocat: ](https://github.com/LSIbabnikz/AI-KD)
 
-### Action recognition
+### Action Recognition
 
 - **Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition**, IEEE Trans. Image Processing 2021, [ :link: ](https://ieeexplore.ieee.org/document/9351789/)[ :octocat: ](https://github.com/xiaochehe/SKD)
 - **Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition**, ICCV 2021, [ :link: ](https://www.computer.org/csdl/proceedings-article/iccv/2021/281200j234/1BmI6MaLeO4)[ :octocat: ](https://github.com/jhong93/vpd)
