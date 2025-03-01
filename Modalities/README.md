@@ -48,10 +48,14 @@
 ## Speech
 
 ## Video
-* **MobileVOS: Real-Time Video Object Segmentation Contrastive Learning meets Knowledge Distillation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2303.07815) 
-* **Offline-to-Online Knowledge Distillation for Video Instance Segmentation**, WACV 2024, [ :link: ]([https://arxiv.org/abs/2303.07815](https://arxiv.org/abs/2302.07516)) 
-* **Dual Learning with Dynamic Knowledge Distillation for Partially Relevant Video Retrieval**, ICCV 2023, [ :link: ]()
 * **Knowledge Distillation in Video-Based Human Action Recognition: An Intuitive Approach to Efficient and Flexible Model Training**, Journal of Imaging 2024, [ :link: ](https://www.mdpi.com/2313-433X/10/4/85)
+* **Multi-teacher knowledge distillation for compressed video action recognition based on deep learning**, Journal of systems architecture 2020, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S1383762119305028)
 * **Generative Model-Based Feature Knowledge Distillation for Action Recognition**, AAAI 2024, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/29473) [ :octocat: ](https://github.com/aaai-24/Generative-based-KD)
+* **MobileVOS: Real-Time Video Object Segmentation Contrastive Learning meets Knowledge Distillation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Miles_MobileVOS_Real-Time_Video_Object_Segmentation_Contrastive_Learning_Meets_Knowledge_Distillation_CVPR_2023_paper.html)
+* **Let Video Teaches You More: Video-to-Image Knowledge Distillation using DEtection TRansformer for Medical Video Lesion Detection**, IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822332/23oo174OOd2)
+* **Offline-to-Online Knowledge Distillation for Video Instance Segmentation**, WACV 2024, [ :link: ](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.html) 
+* **Dual Learning with Dynamic Knowledge Distillation for Partially Relevant Video Retrieval**, ICCV 2023, [ :link: ]()
+* 
+
 
 
