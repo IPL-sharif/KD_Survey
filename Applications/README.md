@@ -197,17 +197,17 @@
 - **Hallucinated Style Distillation for Single Domain Generalization in Medical Image Segmentation**, MICCAI 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_41)
 - **Progressively Correcting Soft Labels via Teacher Team for Knowledge Distillation in Medical Image Segmentation**, MICCAI 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_50)
 - **Reprogramming Distillation for Medical Foundation Models**, MICCAI 2024, [ :link: ](https://www.semanticscholar.org/paper/49d29ad12d3d4acf18334d824fe087f163a82eef)
-- **HDKD: Hybrid Data-Efficient Knowledge Distillation Network for Medical Image Classification**, Journal - Engineering Applications of Artificial Intelligence 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0952197624015884)[ :octocat: ](https://github.com/omarsherif200/HDKD)
-- **Shape-Intensity Knowledge Distillation For Robust Medical Image Segmentation**,   Journal - Frontiers of Computer Science 2024, [ :link: ](https://link.springer.com/article/10.1007/s11704-024-40462-2)[ :octocat: ](https://github.com/whdong-whu/SIKD)
+- **HDKD: Hybrid Data-Efficient Knowledge Distillation Network for Medical Image Classification**, Engineering Applications of Artificial Intelligence 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0952197624015884)[ :octocat: ](https://github.com/omarsherif200/HDKD)
+- **Shape-Intensity Knowledge Distillation For Robust Medical Image Segmentation**, Frontiers of Computer Science 2024, [ :link: ](https://link.springer.com/article/10.1007/s11704-024-40462-2)[ :octocat: ](https://github.com/whdong-whu/SIKD)
 
 ### Object Tracking
 
-- **There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**, CVPR 2021, [ :link: ]()[ :octocat: ]()
-- **Ensemble learning with siamese networks for visual tracking**, Neurocomputing 2021, [ :link: ]()
-- **Distilled Siamese Networks for Visual Tracking**, TPAMI 2022, [ :link: ]()
-- **SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking**, CVPR 2024, [ :link: ]()[ :octocat: ]()
-- **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**, CVPR 2024, [ :link: ]()[ :octocat: ]()
-- **Object Knowledge Distillation for Joint Detection and Tracking in Satellite Videos**, IEEE Transactions on Geoscience and Remote Sensing  2024, [ :link: ]()
+- **There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**, CVPR 2021, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2021/450900l1607/1yeL4UQ401y)[ :octocat: ](https://github.com/robot-learning-freiburg/MM-DistillNet)
+- **Ensemble learning with siamese networks for visual tracking**, Neurocomputing 2021, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0925231221012091)
+- **Distilled Siamese Networks for Visual Tracking**, TPAMI 2022, [ :link: ](https://www.computer.org/csdl/journal/tp/2022/12/09612065/1yrD4rnPnji)
+- **SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking**, CVPR 2024, [ :link: ](https://www.semanticscholar.org/paper/SDSTrack%3A-Self-Distillation-Symmetric-Adapter-for-Hou-Xing/3e8e7ef9ae6a1de0619b7c4cf5e1e8fc12252452)[ :octocat: ](https://github.com/hoqolo/SDSTrack)
+- **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**, CVPR 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2024/530000t248/20hMuK7pjlS)[ :octocat: ](https://github.com/Event-AHU/EventVOT_Benchmark)
+- **Object Knowledge Distillation for Joint Detection and Tracking in Satellite Videos**, IEEE Transactions on Geoscience and Remote Sensing  2024, [ :link: ](https://ieeexplore.ieee.org/iel7/36/10354519/10409214.pdf)
 
 ### Face Recognition
 
