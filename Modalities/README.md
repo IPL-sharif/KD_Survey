@@ -57,11 +57,11 @@
 * **MobileVOS: Real-Time Video Object Segmentation Contrastive Learning meets Knowledge Distillation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Miles_MobileVOS_Real-Time_Video_Object_Segmentation_Contrastive_Learning_Meets_Knowledge_Distillation_CVPR_2023_paper.html)
 * **Let Video Teaches You More: Video-to-Image Knowledge Distillation using DEtection TRansformer for Medical Video Lesion Detection**, IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822332/23oo174OOd2)
 * **Offline-to-Online Knowledge Distillation for Video Instance Segmentation**, WACV 2024, [ :link: ](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.html) 
+* **Dual Learning with Dynamic Knowledge Distillation for Partially Relevant Video Retrieval**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/html/Dong_Dual_Learning_with_Dynamic_Knowledge_Distillation_for_Partially_Relevant_Video_ICCV_2023_paper.html) [ :octocat: ](https://github.com/HuiGuanLab/DL-DKD)
 
 
 
 
 
-* **Dual Learning with Dynamic Knowledge Distillation for Partially Relevant Video Retrieval**, ICCV 2023, [ :link: ]()
 * **The Staged Knowledge Distillation in Video Classification: Harmonizing Student Progress by a Complementary Weakly Supervised Framework**, IEEE Transactions on Circuits and Systems for Video Technology 2024, [ :link: ](https://ieeexplore.ieee.org/document/10182291)
 
