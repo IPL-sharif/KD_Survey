@@ -68,3 +68,4 @@
 *  **VideoAdviser: Video Knowledge Distillation for Multimodal Transfer Learning**, IEEE Access 2023, [ :link: ](https://ieeexplore.ieee.org/document/10136716?denied=)
 *  **Asr is all you need: Cross-modal distillation for lip reading**, ICASSP 2020, [ :link: ](https://arxiv.org/pdf/1911.12747)
 *  **Audio–Visual Model Distillation Using Acoustic Images**, WACV 2020, [ :link: ](https://openaccess.thecvf.com/content_WACV_2020/html/Perez_Audio-Visual_Model_Distillation_Using_Acoustic_Images_WACV_2020_paper.html)
+*  **Spatio-Temporal Graph for Video Captioning with Knowledge Distillation**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/html/Pan_Spatio-Temporal_Graph_for_Video_Captioning_With_Knowledge_Distillation_CVPR_2020_paper.html)
