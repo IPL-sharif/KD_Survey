@@ -10,9 +10,19 @@
   *  [3D Recognition](#3D-Recognition)
   *  [3D Point cloud Completion](#3D-Point-cloud-Completion)
   *  [3D Other Tasks]
-  *  
 * [Multi-View](#multi-view)
 * [Text](#text)
+  * [Neural Machine Translation (NMT)](#Neural-Machine-Translation-(NMT))
+  * [Question Answering (QA)](#Question-Answering-(QA))
+  * [Text Generation](#Text-Generation)
+  * [Event Detection](#Event-Detection)
+  * [Document Retrieval](#Document-Retrieval)
+  * [Text Recognition](#Text-Recognition)
+  * [Named Entity Recognition (NER)](#Named-Entity-Recognition-(NER))
+  * [Text Summarization](#Text-Summarization)
+  * [Natural Language Understanding (NLU)](#Natural-Language-Understanding-(NLU))
+  * [Sentiment Analysis](#Sentiment-Analysis)
+  * [Text Classification](#Text-Classification) 
 * [Speech](#speech)
 * [Video](#video)
 ---
@@ -45,23 +55,25 @@
 
 ## Text
 ### Neural Machine Translation (NMT)
-* **Sequence-Level Knowledge Distillation**, Conference on empirical methods in natural language processing 2016, [ :link: ](https://aclanthology.org/D16-1139.pdf) [ :octocat: ](https://github.com/harvardnlp/seq2seq-attn)
-* **Multilingual Neural Machine Translation with Knowledge Distillation**, ICLR 2019, [ :link: ](https://arxiv.org/abs/1902.10461) [ :octocat: ](https://github.com/RayeRen/multilingual-kd-pytorch)
+* **Align-to-Distill: Trainable Attention Alignment for Knowledge Distillation in Neural Machine Translation**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2403.01479) [ :octocat: ](https://github.com/ncsoft/Align-to-Distill)
 * **Multi-Teacher Distillation With Single Model for Neural Machine Translation**, IEEE/ACM 2022, [ :link: ](https://ieeexplore.ieee.org/abstract/document/9722996) [ :octocat: ](https://github.com/dropreg/DataPipe)
 * **Selective Knowledge Distillation for Neural Machine Translation**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2105.12967) [ :octocat: ](https://github.com/LeslieOverfitting/selective_distillation)
-* **Align-to-Distill: Trainable Attention Alignment for Knowledge Distillation in Neural Machine Translation**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2403.01479) [ :octocat: ](https://github.com/ncsoft/Align-to-Distill)
+* **Multilingual Neural Machine Translation with Knowledge Distillation**, ICLR 2019, [ :link: ](https://arxiv.org/abs/1902.10461) [ :octocat: ](https://github.com/RayeRen/multilingual-kd-pytorch)
+* **Sequence-Level Knowledge Distillation**, Conference on empirical methods in natural language processing 2016, [ :link: ](https://aclanthology.org/D16-1139.pdf) [ :octocat: ](https://github.com/harvardnlp/seq2seq-attn)
+
 ### Question Answering (QA)
-* **Attention-Guided Answer Distillation for Machine Reading Comprehension**, arXiv 2018, [ :link: ](https://arxiv.org/abs/1808.07644)
-* **Model Compression with Two-stage Multi-teacher Knowledge Distillation for Web Question Answering System**, ACM 2020, [ :link: ](https://dl.acm.org/doi/abs/10.1145/3336191.3371792)
-* **Machine Reading Comprehension as Data Augmentation: A Case Study on Implicit Event Argument Extraction**, Conference on Empirical Methods in Natural Language Processing 2021, [ :link: ](https://aclanthology.org/2021.emnlp-main.214/) [ :octocat: ](https://github.com/jianliu-ml/DocMRC)
 * **DPAL-BERT: A Faster and Lighter Question Answering Model**, CMES-Computer Modeling in Engineering & Sciences 2024, [ :link: ](https://www.researchgate.net/profile/Wenfeng-Zheng/publication/382518664_DPAL-BERT_A_Faster_and_Lighter_Question_Answering_Model/links/66a1d3705919b66c9f687e71/DPAL-BERT-A-Faster-and-Lighter-Question-Answering-Model.pdf)
 * **Distilling Knowledge from Reader to Retriever for Question Answering**, ICLR 2021, [ :link: ](https://arxiv.org/abs/2012.04584) [ :octocat: ](https://github.com/facebookresearch/FiD)
+* **Machine Reading Comprehension as Data Augmentation: A Case Study on Implicit Event Argument Extraction**, Conference on Empirical Methods in Natural Language Processing 2021, [ :link: ](https://aclanthology.org/2021.emnlp-main.214/) [ :octocat: ](https://github.com/jianliu-ml/DocMRC)
+* **Model Compression with Two-stage Multi-teacher Knowledge Distillation for Web Question Answering System**, ACM 2020, [ :link: ](https://dl.acm.org/doi/abs/10.1145/3336191.3371792)
+* **Attention-Guided Answer Distillation for Machine Reading Comprehension**, arXiv 2018, [ :link: ](https://arxiv.org/abs/1808.07644)
+
 ### Text Generation
 * **Distilling Knowledge Learned in BERT for Text Generation**, arXiv 2019, [ :link: ](https://arxiv.org/abs/1911.03829) [ :octocat: ](https://github.com/ChenRocks/Distill-BERT-Textgen)
 * **TextKD-GAN: Text Generation Using Knowledge Distillation and Generative Adversarial Networks**, arXiv 2019, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-030-18305-9_9)
 ### Event Detection
-* **Transferring Knowledge Distillation for Multilingual Social Event Detection**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2108.03084)
 * **Lifelong Event Detection with Knowledge Transfer**, EMNLP 2021, [ :link: ](https://aclanthology.org/2021.emnlp-main.428/) [ :octocat: ](https://github.com/perfec-yu/lifelong-ed)
+* **Transferring Knowledge Distillation for Multilingual Social Event Detection**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2108.03084)
 * **Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection**, AAAI 2019, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/4649) 
 ### Document Retrieval
 * **Simplified TinyBERT: Knowledge Distillation for Document Retrieval**, ECIR 2021, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-030-72240-1_21) [ :octocat: ](https://github.com/cxa-unique/Simplified-TinyBERT)
@@ -70,22 +82,22 @@
 * **Text Is Text, No Matter What: Unifying Text Recognition Using Knowledge Distillation**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Bhunia_Text_Is_Text_No_Matter_What_Unifying_Text_Recognition_Using_ICCV_2021_paper.html)
 * **Joint architecture and knowledge distillation in CNN for Chinese text recognition**, Pattern Recognition 2021, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305252)
 ### Named Entity Recognition (NER)
-* **Reinforced Iterative Knowledge Distillation for Cross-Lingual Named Entity Recognition**, ACM 2021, [ :link: ](https://dl.acm.org/doi/abs/10.1145/3447548.3467196)
 * **Discrepancy and Uncertainty Aware Denoising Knowledge Distillation for Zero-Shot Cross-Lingual Named Entity Recognition**, AAAI 2024, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/29762)
+* **Reinforced Iterative Knowledge Distillation for Cross-Lingual Named Entity Recognition**, ACM 2021, [ :link: ](https://dl.acm.org/doi/abs/10.1145/3447548.3467196)
 ### Text Summarization
-* **An Information Distillation Framework for Extractive Summarization**, IEEE/ACM 2017, [ :link: ](https://ieeexplore.ieee.org/abstract/document/8074745)
-* **Noisy Self-Knowledge Distillation for Text Summarization**, arXiv 2020, [ :link: ](https://arxiv.org/abs/2009.07032) [ :octocat: ](https://github.com/nlpyang/NoisySumm)
 * **Improving Neural Cross-Lingual Abstractive Summarization via Employing Optimal Transport Distance for Knowledge Distillation**, AAAI 2022, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/21359)
+* **Noisy Self-Knowledge Distillation for Text Summarization**, arXiv 2020, [ :link: ](https://arxiv.org/abs/2009.07032) [ :octocat: ](https://github.com/nlpyang/NoisySumm)
+* **An Information Distillation Framework for Extractive Summarization**, IEEE/ACM 2017, [ :link: ](https://ieeexplore.ieee.org/abstract/document/8074745)
 ### Natural Language Understanding (NLU)
-* **Distilling Task-Specific Knowledge from BERT into Simple Neural Networks**, arXiv 2019, [ :link: ](https://arxiv.org/abs/1903.12136)
 * **Alexa Teacher Model: Pretraining and Distilling Multi-Billion-Parameter Encoders for Natural Language Understanding Systems**, ACM 2022, [ :link: ](https://dl.acm.org/doi/abs/10.1145/3534678.3539173) [ :octocat: ](https://github.com/amazon-science/alexa-teacher-models)
+* **Distilling Task-Specific Knowledge from BERT into Simple Neural Networks**, arXiv 2019, [ :link: ](https://arxiv.org/abs/1903.12136)
 * **Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding**, arXiv 2019, [ :link: ](https://arxiv.org/abs/1904.09482) [ :octocat: ](https://github.com/namisan/mt-dnn)
 ### Sentiment Analysis
-* **BERT-Based Sentiment Analysis Using Distillation**, International conference on statistical language and speech processing 2020, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-030-59430-5_5)
 * **Efficient sentiment analysis and topic modeling in nlp using knowledge distillation and transfer learning**, 2023, [ :link: ](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1795316)
+* **BERT-Based Sentiment Analysis Using Distillation**, International conference on statistical language and speech processing 2020, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-030-59430-5_5)
 ### Text Classification
-* **Cross-lingual Distillation for Text Classification**, arXiv 2017, [ :link: ](https://arxiv.org/abs/1705.02073) [ :octocat: ](https://github.com/xrc10/cross-distill)
 * **Data Distillation for Text Classification**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2104.08448) [ :octocat: ](https://github.com/liyongqi67/Data-Distillation-for-Text-Classification)
+* **Cross-lingual Distillation for Text Classification**, arXiv 2017, [ :link: ](https://arxiv.org/abs/1705.02073) [ :octocat: ](https://github.com/xrc10/cross-distill)
 
 ## Speech
 ### Speech Recognition (ASR)
