@@ -1,13 +1,15 @@
 ## Distillation Applications
 *  [Large Language Models](#Large-Language-Models)
 *  [Self-Supervised Learning](#Self-Supervised-Learning)
-* [Knowledge Distillation in Visual Recognition](#knowledge-distillation-in-visual-recognition)
+*  [Foundation Models](#foundation-models)
+*  [Diffusion Models](#diffusion-models)
+*  [Knowledge Distillation in Visual Recognition](#knowledge-distillation-in-visual-recognition)
 
 
 ---
 
 
-### Large Language Models
+## Large Language Models
 - **TinyBERT: Distilling BERT for Natural Language Understanding**, Arxiv 2019, [ :link: ](https://arxiv.org/abs/1909.10351)[ :octocat: ](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)
 - **Distilbert, a distilled version of bert: smaller, faster, cheaper and lighter**, Arxiv 2019, [ :link: ](https://arxiv.org/abs/1910.01108)
 - **Patient Knowledge Distillation for BERT Model Compression**, Arxiv 2019, [ :link: ](https://arxiv.org/abs/1908.09355)[ :octocat: ](https://github.com/intersun/PKD-for-BERT-Model-Compression)
@@ -37,7 +39,7 @@
 
 
 
-### Self-Supervised Learning
+## Self-Supervised Learning
 
 - **A simple framework for contrastive learning of visual representations**, NeurIPS 2020, [ :link: ](https://dl.acm.org/doi/10.5555/3524938.3525087)[ :octocat: ](https://github.com/google-research/simclr)
 - **Momentum contrast for unsupervised visual representation learning**, CVPR 2020, [ :link: ](https://arxiv.org/abs/1911.05722)[ :octocat: ](https://github.com/facebookresearch/moco)
@@ -57,6 +59,13 @@
 - **Masked Video Distillation: Rethinking Masked Feature Modeling for Self-Supervised Video Representation Learning**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2212.04500)[ :octocat: ](https://github.com/ruiwang2021/mvd)
 - **Multi-Mode Online Knowledge Distillation for Self-Supervised Visual Representation Learning**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2304.06461)[ :octocat: ](https://github.com/skyoux/mokd)
 - **DINOv2: Learning Robust Visual Features without Supervision**, TMLR 2024, [ :link: ](https://arxiv.org/abs/2304.07193)[ :octocat: ](https://github.com/facebookresearch/dinov2)
+
+
+## Foundation Models
+
+
+## Diffusion Models
+
 
 ## Knowledge Distillation in Visual Recognition
 
