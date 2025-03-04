@@ -72,7 +72,8 @@
 
 ### 3D Completion
 
-### 3D Depth Estimation
+### 3D Recognition
+* **DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**, AAAI 2024, [ :link: ](https://arxiv.org/abs/2312.10616) [ :octocat: ](https://github.com/sijieaaa/DistilVPR)
 
 
 
