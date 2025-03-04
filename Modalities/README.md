@@ -43,15 +43,24 @@
 * **LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection**, ECCV 2022, [ :link: ](https://arxiv.org/pdf/2203.14956) [ :octocat: ](https://github.com/weiyithu/LiDAR-Distillation)
 * **Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection**, ECCV 2022, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_6) [ :octocat: ](https://github.com/Cc-Hy/CMKD)
 * **Towards Efficient 3D Object Detection with Knowledge Distillation**, NeurIPS 2022, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8625a8c2be8ba5197b7a14833dbea8ac-Abstract-Conference.html) [ :octocat: ](https://github.com/CVMI-Lab/SparseKD)
+
+  
 ### 3D Shape Classification
-* Feature Adversarial Distillation for Point Cloud Classification, ICIP 2023, [ :link: ](https://arxiv.org/abs/2306.14221)
-* 
+* **Feature Adversarial Distillation for Point Cloud Classification**, ICIP 2023, [ :link: ](https://arxiv.org/abs/2306.14221)
+* **Joint graph entropy knowledge distillation for point cloud classification and robustness against corruptions**, Information Sciences 2023, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011271)
+* **Efficient Point Cloud Classification via Offline Distillation Framework and Negative-Weight Self-Distillation Technique**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2409.02020)
+
+
 ### 3D Segmentation
 ### 3D Domain Adaptation
+
+
 ### 3D Depth Estimation
 * **MVP-Net: Multi-View Depth Image Guided Cross-Modal Distillation Network for Point Cloud Upsampling**, ACM 2024, [ :link: ](https://dl.acm.org/doi/10.1145/3664647.3681562)
 * **Improving Accuracy and Efficiency of Monocular Depth Estimation in Power Grid Environments Using Point Cloud Optimization and Knowledge Distillation**, Energies 2024, [ :link: ](https://www.mdpi.com/1996-1073/17/16/4068) 
 * **LiRCDepth: Lightweight Radar-Camera Depth Estimation via Knowledge Distillation and Uncertainty Guidance**, arXiv 2024, [ :link: ](https://www.arxiv.org/abs/2412.16380) [ :octocat: ](https://github.com/harborsarah/LiRCDepth)
+
+
 ### 3D Representation
 
 
