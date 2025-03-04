@@ -4,11 +4,13 @@
   *  [3D Object Detection](#3D-Object-Detection)
   *  [3D Shape Classification](#3D-Shape-Classification)
   *  [3D Segmentation](#3D-Segmentation)
+  *  [3D Registartion](#3D-Registartion)
   *  [3D Domain Adaptation](#3D-Domain-Adaptation)
   *  [3D Depth Estimation](#3D-Depth-Estimation)
   *  [3D Representation](#3D-Representation)
   *  [3D Recognition](#3D-Recognition)
   *  [3D Point cloud Completion](#3D-Point-cloud-Completion)
+  *  
   *  [3D Other Tasks]
 * [Multi-View](#multi-view)
 * [Text](#text)
@@ -49,9 +51,14 @@
 * **Feature Adversarial Distillation for Point Cloud Classification**, ICIP 2023, [ :link: ](https://arxiv.org/abs/2306.14221)
 * **Joint graph entropy knowledge distillation for point cloud classification and robustness against corruptions**, Information Sciences 2023, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011271)
 * **Efficient Point Cloud Classification via Offline Distillation Framework and Negative-Weight Self-Distillation Technique**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2409.02020)
-
-
+* 
 ### 3D Segmentation
+* **Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation**, 
+
+### 3D Registration
+
+
+
 ### 3D Domain Adaptation
 
 
@@ -60,8 +67,14 @@
 * **Improving Accuracy and Efficiency of Monocular Depth Estimation in Power Grid Environments Using Point Cloud Optimization and Knowledge Distillation**, Energies 2024, [ :link: ](https://www.mdpi.com/1996-1073/17/16/4068) 
 * **LiRCDepth: Lightweight Radar-Camera Depth Estimation via Knowledge Distillation and Uncertainty Guidance**, arXiv 2024, [ :link: ](https://www.arxiv.org/abs/2412.16380) [ :octocat: ](https://github.com/harborsarah/LiRCDepth)
 
-
 ### 3D Representation
+
+
+### 3D Completion
+
+### 3D Depth Estimation
+
+
 
 
 
