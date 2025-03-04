@@ -44,6 +44,8 @@
 * **Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection**, ECCV 2022, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_6) [ :octocat: ](https://github.com/Cc-Hy/CMKD)
 * **Towards Efficient 3D Object Detection with Knowledge Distillation**, NeurIPS 2022, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8625a8c2be8ba5197b7a14833dbea8ac-Abstract-Conference.html) [ :octocat: ](https://github.com/CVMI-Lab/SparseKD)
 ### 3D Shape Classification
+* Feature Adversarial Distillation for Point Cloud Classification, ICIP 2023, [ :link: ](https://arxiv.org/abs/2306.14221)
+* 
 ### 3D Segmentation
 ### 3D Domain Adaptation
 ### 3D Depth Estimation
