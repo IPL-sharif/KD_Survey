@@ -97,8 +97,7 @@ If you use this repository for your research or wish to refer to our distillatio
   volume={55},
   number={1},
   pages={99--108},
-  year={2023},
-  publisher={Amirkabir University of Technology}
+  year={2023}
 }
 
 @article{ghorbani2020your,
