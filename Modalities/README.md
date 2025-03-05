@@ -10,8 +10,11 @@
   *  [3D Representation](#3D-Representation)
   *  [3D Recognition](#3D-Recognition)
   *  [3D Point cloud Completion](#3D-Point-cloud-Completion)
-  *  [3D Other Tasks]
+  *  [3D Other Tasks](#3D-Other-Tasks)
+ 
 * [Multi-View](#multi-view)
+
+
 * [Text](#text)
   * [Neural Machine Translation (NMT)](#Neural-Machine-Translation-NMT)
   * [Question Answering (QA)](#Question-Answering-QA)
@@ -24,8 +27,11 @@
   * [Natural Language Understanding (NLU)](#Natural-Language-Understanding-NLU)
   * [Sentiment Analysis](#Sentiment-Analysis)
   * [Text Classification](#Text-Classification) 
+
 * [Speech](#speech)
+
 * [Video](#video)
+  
 ---
 ## 3D Input
 ### 3D Object Detection
@@ -50,9 +56,11 @@
 * **Feature Adversarial Distillation for Point Cloud Classification**, ICIP 2023, [ :link: ](https://arxiv.org/abs/2306.14221)
 * **Joint graph entropy knowledge distillation for point cloud classification and robustness against corruptions**, Information Sciences 2023, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011271)
 * **Efficient Point Cloud Classification via Offline Distillation Framework and Negative-Weight Self-Distillation Technique**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2409.02020)
-* 
+
+  
 ### 3D Segmentation
 * **Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation**, 
+
 
 ### 3D Registration
 
@@ -73,17 +81,17 @@
 * **RaPD, Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion**, arXiv 2022, [ :link: ]() 
 * **Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**, EEE/RSJ IROS 2024, [ :link: ](https://arxiv.org/abs/2409.06171) [ :octocat: ](https://github.com/Zhang-VISLab/IROS2024-LossDistillationWeightedCD)
 
-* 
+
 ### 3D Recognition
 * **DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**, AAAI 2024, [ :link: ](https://arxiv.org/abs/2312.10616) [ :octocat: ](https://github.com/sijieaaa/DistilVPR)
 * **PointMCD: Boosting Deep Point Cloud Encoders via Multi-view Cross-modal Distillation for 3D Shape Recognition**, IEEE Transactions on Multimedia 2023, [ :link: ](https://arxiv.org/abs/2207.03128) [ :octocat: ](https://github.com/keeganhk/PointMCD)
 
 
 ### 3D Other Tasks
-* **Diffusion Time-step Curriculum for One Image to 3D Generation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2404.04562) [ :octocat: ](https://github.com/yxymessi/DTC123)
-* **3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation**, CVPR 2024,
+* **Diffusion Time-step Curriculum for One Image to 3D Generation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Yi_Diffusion_Time-step_Curriculum_for_One_Image_to_3D_Generation_CVPR_2024_paper.html) [ :octocat: ](https://github.com/yxymessi/DTC123)
+* **3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Decatur_3D_Paintbrush_Local_Stylization_of_3D_Shapes_with_Cascaded_Score_CVPR_2024_paper.html) [ :octocat: ](https://threedle.github.io/3d-paintbrush/)
 * **Resolution-free Point Cloud Sampling Network with Data Distillation**, ECCV 2022, [ :link: ](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4326_ECCV_2022_paper.php) [ :octocat: ](https://github.com/Tianxinhuang/PCDNet)
-* **Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation**, 
+* **Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation**,  [ :link: ](https://arxiv.org/abs/2309.10932) [ :octocat: ](https://github.com/Fsoft-AIC/Open-Vocabulary-Affordance-Detection-using-Knowledge-Distillation-and-Text-Point-Correlation)
 
 
 
