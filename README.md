@@ -90,6 +90,17 @@ If you use this repository for your research or wish to refer to our distillatio
   organization={IEEE}
 }
 
+@article{mansourian2023efficient,
+  title={An Efficient Knowledge Distillation Architecture for Real-time Semantic Segmentation},
+  author={Mansourian, Amir M and Karimi Bavandpour, Nader and Kasaei, Shohreh},
+  journal={AUT Journal of Modeling and Simulation},
+  volume={55},
+  number={1},
+  pages={99--108},
+  year={2023},
+  publisher={Amirkabir University of Technology}
+}
+
 @article{ghorbani2020your,
   title={Be Your Own Best Competitor! Multi-Branched Adversarial Knowledge Transfer},
   author={Ghorbani, Mahdi and Fooladgar, Fahimeh and Kasaei, Shohreh},
