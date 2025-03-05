@@ -10,7 +10,6 @@
   *  [3D Representation](#3D-Representation)
   *  [3D Recognition](#3D-Recognition)
   *  [3D Point cloud Completion](#3D-Point-cloud-Completion)
-  *  
   *  [3D Other Tasks]
 * [Multi-View](#multi-view)
 * [Text](#text)
@@ -79,7 +78,35 @@
 * **DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**, AAAI 2024, [ :link: ](https://arxiv.org/abs/2312.10616) [ :octocat: ](https://github.com/sijieaaa/DistilVPR)
 * **PointMCD: Boosting Deep Point Cloud Encoders via Multi-view Cross-modal Distillation for 3D Shape Recognition**, IEEE Transactions on Multimedia 2023, [ :link: ](https://arxiv.org/abs/2207.03128) [ :octocat: ](https://github.com/keeganhk/PointMCD)
 
+
+### 3D Other Tasks
+* **Diffusion Time-step Curriculum for One Image to 3D Generation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2404.04562) [ :octocat: ](https://github.com/yxymessi/DTC123)
+* **3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation**, CVPR 2024,
+* **Resolution-free Point Cloud Sampling Network with Data Distillation**, ECCV 2022, [ :link: ](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4326_ECCV_2022_paper.php) [ :octocat: ](https://github.com/Tianxinhuang/PCDNet)
+* **Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation**, 
+
+
+
+
+
+
+
 ## Multi-View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Text
 ### Neural Machine Translation (NMT)
