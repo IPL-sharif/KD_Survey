@@ -78,8 +78,16 @@
 
 
 ### 3D Completion
+#### Shape Completion
 * **RaPD, Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion**, arXiv 2022, [ :link: ]() 
 * **Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**, EEE/RSJ IROS 2024, [ :link: ](https://arxiv.org/abs/2409.06171) [ :octocat: ](https://github.com/Zhang-VISLab/IROS2024-LossDistillationWeightedCD)
+
+#### Scene Completion
+
+#### Depth Completion
+
+
+
 
 
 ### 3D Recognition
