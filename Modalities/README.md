@@ -64,7 +64,7 @@
 * **Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation**, 
 
 
----
+--
 ### 3D Registration
 * **Unsupervised Point Cloud Registration with Self-Distillation**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2409.07558) [ :octocat: ](https://github.com/boschresearch/direg)
 * **Knowledge distillation-based point cloud registration method**, International Conference on Computer Graphics 2024, [ :link: ](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13105/3026745/Knowledge-distillation-based-point-cloud-registration-method/10.1117/12.3026745.short) 
