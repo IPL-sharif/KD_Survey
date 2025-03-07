@@ -51,26 +51,35 @@
 * **Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection**, ECCV 2022, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_6) [ :octocat: ](https://github.com/Cc-Hy/CMKD)
 * **Towards Efficient 3D Object Detection with Knowledge Distillation**, NeurIPS 2022, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8625a8c2be8ba5197b7a14833dbea8ac-Abstract-Conference.html) [ :octocat: ](https://github.com/CVMI-Lab/SparseKD)
 
----
 ### 3D Shape Classification
 * **Feature Adversarial Distillation for Point Cloud Classification**, ICIP 2023, [ :link: ](https://arxiv.org/abs/2306.14221)
 * **Joint graph entropy knowledge distillation for point cloud classification and robustness against corruptions**, Information Sciences 2023, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011271)
 * **Efficient Point Cloud Classification via Offline Distillation Framework and Negative-Weight Self-Distillation Technique**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2409.02020)
 * **Cascaded Network with Hierarchical Self-Distillation for Sparse Point Cloud Classification**, ICME 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10687949/) [ :octocat: ](https://github.com/ky-zhou/pointhsd)
 
-
----
 ### 3D Segmentation
-* **Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation**, 
+* **Learning 3D Semantic Segmentation with only 2D Image Supervision**, IC3DV 2021,  [ :link: ](https://arxiv.org/abs/2110.11325)
+* **3D-to-2D Distillation for Indoor Scene Parsing**, CVPR 2021,  [ :link: ](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_3D-to-2D_Distillation_for_Indoor_Scene_Parsing_CVPR_2021_paper.html) [ :octocat: ](https://github.com/liuzhengzhe/3D-to-2D-Distillation-for-Indoor-Scene-Parsing)
+* **Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation**, ICCV 2021,  [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Perturbed_Self-Distillation_Weakly_Supervised_Large-Scale_Point_Cloud_Semantic_Segmentation_ICCV_2021_paper.html) [ :octocat: ](https://github.com/Yachao-Zhang/PSD)
+* **Point-to-voxel knowledge distillation for lidar semantic segmentation**, CVPR 2022,  [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Hou_Point-to-Voxel_Knowledge_Distillation_for_LiDAR_Semantic_Segmentation_CVPR_2022_paper.html) [ :octocat: ](https://github.com/cardwing/Codes-for-PVKD)
+* **Multi-to-Single Knowledge Distillation for Point Cloud Semantic Segmentation**, IEEE International Conference on Robotics and Automation (ICRA) 2023,  [ :link: ](https://arxiv.org/abs/2304.14800) [ :octocat: ](https://github.com/skyshoumeng/M2SKD)
+* **Label-Guided Knowledge Distillation for Continual Semantic Segmentation on 2D Images and 3D Point Clouds**, ICCV 2023,  [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Label-Guided_Knowledge_Distillation_for_Continual_Semantic_Segmentation_on_2D_Images_ICCV_2023_paper.html) [ :octocat: ](https://github.com/Ze-Yang/LGKD)
+* **Smaller3D: Smaller models for 3D semantic segmentation using Minkowski engine and knowledge distillation methods**, arXiv  2023,  [ :link: ](https://arxiv.org/abs/2305.03188#:~:text=4%20May%202023%5D-,Smaller3d%3A%20Smaller%20Models%20for%203D%20Semantic%20Segmentation%20Using,Engine%20and%20Knowledge%20Distillation%20Methods&text=There%20are%20various%20optimization%20techniques,how%20do%20calculate%20in%203D.) [ :octocat: ](https://github.com/madanela/smaller3d)
+* **Cross-modal unsupervised domain adaptation for 3d semantic segmentation via bidirectional fusion-then-distillation**, ACM 2023,  [ :link: ](https://dl.acm.org/doi/10.1145/3581783.3612013)
+* **CMDFusion: Bidirectional Fusion Network with Cross-modality Knowledge Distillation for LIDAR Semantic Segmentation**, IEEE Robotics and Automation Letters 2023,  [ :link: ](https://arxiv.org/abs/2307.04091) [ :octocat: ](https://github.com/Jun-CEN/CMDFusion)
+* **Knowledge Distillation from 3D to Bird's-Eye-View for LiDAR Semantic Segmentation**, IEEE International Conference on Multimedia and Expo (ICME) 2023,  [ :link: ](https://arxiv.org/abs/2304.11393) [ :octocat: ](https://github.com/fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet)
+* **Channel-spatial knowledge distillation for efficient semantic segmentation**, Pattern Recognition Letter 2024,  [ :link: ](https://dl.acm.org/doi/10.1016/j.patrec.2024.02.027) 
+* **PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation**, CVPR 2024,  [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Umam_PartDistill_3D_Shape_Part_Segmentation_by_Vision-Language_Model_Distillation_CVPR_2024_paper.html) [ :octocat: ](https://github.com/ardianumam/PartDistill)
+* **Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**, NeurIPS 2024,  [ :link: ](https://arxiv.org/abs/2306.09347)  [ :octocat: (https://github.com/youquanl/Segment-Any-Point-Cloud)
 
 
---
+
 ### 3D Registration
 * **Unsupervised Point Cloud Registration with Self-Distillation**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2409.07558) [ :octocat: ](https://github.com/boschresearch/direg)
 * **Knowledge distillation-based point cloud registration method**, International Conference on Computer Graphics 2024, [ :link: ](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13105/3026745/Knowledge-distillation-based-point-cloud-registration-method/10.1117/12.3026745.short) 
 
 
----
+
 ### 3D Domain Adaptation
 * **Self-Distillation for Unsupervised 3D Domain Adaptation**, WACV 2023, [ :link: ](https://openaccess.thecvf.com/content/WACV2023/html/Cardace_Self-Distillation_for_Unsupervised_3D_Domain_Adaptation_WACV_2023_paper.html) [ :octocat: ](https://github.com/CVLAB-Unibo/Feature-Distillation-for-3D-UDA/tree/main)
 * **Self-ensembling for 3D point cloud domain adaptation**, Image and Vision Computing 2024, [ :link: ](https://arxiv.org/abs/2112.05301)
