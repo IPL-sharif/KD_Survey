@@ -51,23 +51,26 @@
 * **Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection**, ECCV 2022, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_6) [ :octocat: ](https://github.com/Cc-Hy/CMKD)
 * **Towards Efficient 3D Object Detection with Knowledge Distillation**, NeurIPS 2022, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8625a8c2be8ba5197b7a14833dbea8ac-Abstract-Conference.html) [ :octocat: ](https://github.com/CVMI-Lab/SparseKD)
 
-  
+---
 ### 3D Shape Classification
 * **Feature Adversarial Distillation for Point Cloud Classification**, ICIP 2023, [ :link: ](https://arxiv.org/abs/2306.14221)
 * **Joint graph entropy knowledge distillation for point cloud classification and robustness against corruptions**, Information Sciences 2023, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011271)
 * **Efficient Point Cloud Classification via Offline Distillation Framework and Negative-Weight Self-Distillation Technique**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2409.02020)
 * **Cascaded Network with Hierarchical Self-Distillation for Sparse Point Cloud Classification**, ICME 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10687949/) [ :octocat: ](https://github.com/ky-zhou/pointhsd)
 
-  
+
+---
 ### 3D Segmentation
 * **Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation**, 
 
 
+---
 ### 3D Registration
 * **Unsupervised Point Cloud Registration with Self-Distillation**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2409.07558) [ :octocat: ](https://github.com/boschresearch/direg)
 * **Knowledge distillation-based point cloud registration method**, International Conference on Computer Graphics 2024, [ :link: ](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13105/3026745/Knowledge-distillation-based-point-cloud-registration-method/10.1117/12.3026745.short) 
 
 
+---
 ### 3D Domain Adaptation
 * **Self-Distillation for Unsupervised 3D Domain Adaptation**, WACV 2023, [ :link: ](https://openaccess.thecvf.com/content/WACV2023/html/Cardace_Self-Distillation_for_Unsupervised_3D_Domain_Adaptation_WACV_2023_paper.html) [ :octocat: ](https://github.com/CVLAB-Unibo/Feature-Distillation-for-3D-UDA/tree/main)
 * **Self-ensembling for 3D point cloud domain adaptation**, Image and Vision Computing 2024, [ :link: ](https://arxiv.org/abs/2112.05301)
