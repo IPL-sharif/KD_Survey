@@ -70,7 +70,7 @@
 * **Knowledge Distillation from 3D to Bird's-Eye-View for LiDAR Semantic Segmentation**, IEEE International Conference on Multimedia and Expo (ICME) 2023,  [ :link: ](https://arxiv.org/abs/2304.11393) [ :octocat: ](https://github.com/fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet)
 * **Channel-spatial knowledge distillation for efficient semantic segmentation**, Pattern Recognition Letter 2024,  [ :link: ](https://dl.acm.org/doi/10.1016/j.patrec.2024.02.027) 
 * **PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation**, CVPR 2024,  [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Umam_PartDistill_3D_Shape_Part_Segmentation_by_Vision-Language_Model_Distillation_CVPR_2024_paper.html) [ :octocat: ](https://github.com/ardianumam/PartDistill)
-* **Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**, NeurIPS 2024,  [ :link: ](https://arxiv.org/abs/2306.09347)  [ :octocat: (https://github.com/youquanl/Segment-Any-Point-Cloud)
+* **Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**, NeurIPS 2024,  [ :link: ](https://arxiv.org/abs/2306.09347)  [ :octocat: ](https://github.com/youquanl/Segment-Any-Point-Cloud)
 
 
 
