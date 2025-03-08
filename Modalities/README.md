@@ -72,14 +72,6 @@
 * **PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation**, CVPR 2024,  [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Umam_PartDistill_3D_Shape_Part_Segmentation_by_Vision-Language_Model_Distillation_CVPR_2024_paper.html) [ :octocat: ](https://github.com/ardianumam/PartDistill)
 * **Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**, NeurIPS 2024,  [ :link: ](https://arxiv.org/abs/2306.09347)  [ :octocat: ](https://github.com/youquanl/Segment-Any-Point-Cloud)
 
-
-
-### 3D Registration
-* **Unsupervised Point Cloud Registration with Self-Distillation**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2409.07558) [ :octocat: ](https://github.com/boschresearch/direg)
-* **Knowledge distillation-based point cloud registration method**, International Conference on Computer Graphics 2024, [ :link: ](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13105/3026745/Knowledge-distillation-based-point-cloud-registration-method/10.1117/12.3026745.short) 
-
-
-
 ### 3D Domain Adaptation
 * **Self-Distillation for Unsupervised 3D Domain Adaptation**, WACV 2023, [ :link: ](https://openaccess.thecvf.com/content/WACV2023/html/Cardace_Self-Distillation_for_Unsupervised_3D_Domain_Adaptation_WACV_2023_paper.html) [ :octocat: ](https://github.com/CVLAB-Unibo/Feature-Distillation-for-3D-UDA/tree/main)
 * **Self-ensembling for 3D point cloud domain adaptation**, Image and Vision Computing 2024, [ :link: ](https://arxiv.org/abs/2112.05301)
@@ -90,12 +82,33 @@
 * **LiRCDepth: Lightweight Radar-Camera Depth Estimation via Knowledge Distillation and Uncertainty Guidance**, arXiv 2024, [ :link: ](https://www.arxiv.org/abs/2412.16380) [ :octocat: ](https://github.com/harborsarah/LiRCDepth)
 
 ### 3D Representation
+* **Learning from 2D: Contrastive Pixel-to-Point Knowledge Transfer for 3D Pretraining**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2104.04687)
+* **Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Sautier_Image-to-Lidar_Self-Supervised_Distillation_for_Autonomous_Driving_Data_CVPR_2022_paper.html) [ :octocat: ](https://github.com/valeoai/SLidR)
+* **Distillation with Contrast is All You Need for Self-Supervised Point Cloud**, arXiv 2022, [ :link: ](https://arxiv.org/abs/2202.04241)
+* **Data Efficient 3D Learner via Knowledge Transferred from 2D Model**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2203.08479) [ :octocat: ](https://github.com/bryanyu1997/Data-Efficient-3D-Learner)
+* **Let Images Give You More: Point Cloud Cross-Modal Training for Shape Analysis**, NeurIPS 2022, [ :link: ]() [ :octocat: ]()
+* **3D Point Cloud Pre-Training with Knowledge Distilled from 2D Images**, ICME 2022, [ :link: ]
+* **LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation**, CVPR 2023, [ :link: ] [ :octocat: ]
+* **Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders**, CVPR 2023, [ :link: ] [ :octocat: ]
+* **Complete-to-Partial 4D Distillation for Self-Supervised Point Cloud Sequence Representation Learning**, CVPR 2023, [ :link: ] [ :octocat: ]
+* **Contrast with Reconstruct: Contrastive 3D Representation Learning Guided by Generative Pretraining**, ICML 2023, [ :link: ]
+* **Multi-View Representation is What You Need for Point-Cloud Pre-Training**, ICLR 2024, [ :link: ] 
+* **HVDistill: Transferring Knowledge from Images to Point Clouds via Unsupervised Hybrid-View Distillation**, IJCV 2024, [ :link: ] [ :octocat: ]
+* **Joint representation learning for text and 3d point cloud**, Pattern Recognition 2024, [ :link: ]
+* **Diffusion 3d features (diff3f): Decorating untextured shapes with distilled semantic features**, CVPR 2024, [ :link: ] [ :octocat: ]
 
+
+
+
+### 3D Recognition
+* **DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**, AAAI 2024, [ :link: ](https://arxiv.org/abs/2312.10616) [ :octocat: ](https://github.com/sijieaaa/DistilVPR)
+* **PointMCD: Boosting Deep Point Cloud Encoders via Multi-view Cross-modal Distillation for 3D Shape Recognition**, IEEE Transactions on Multimedia 2023, [ :link: ](https://arxiv.org/abs/2207.03128) [ :octocat: ](https://github.com/keeganhk/PointMCD)
 
 ### 3D Completion
 #### Shape Completion
 * **RaPD, Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion**, arXiv 2022, [ :link: ](https://arxiv.org/abs/2204.09186) 
 * **Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**, EEE/RSJ IROS 2024, [ :link: ](https://arxiv.org/abs/2409.06171) [ :octocat: ](https://github.com/Zhang-VISLab/IROS2024-LossDistillationWeightedCD)
+* **Enhancing the Encoding Process in Point Cloud Completion**, ICCPR 2024, [ :link: ](https://dl.acm.org/doi/10.1145/3704323.3704330)
 
 #### Scene Completion
 * **Dense Top-View Semantic Completion With Sparse Guidance and Online Distillation**, IEEE Transactions on Intelligent Vehicles 2023, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10104125)
@@ -108,9 +121,9 @@
 * **Monitored Distillation for Positive Congruent Depth Completion**, ECCV 2020, [ :link: ](https://arxiv.org/abs/2203.16034) [ :octocat: ](https://github.com/alexklwong/mondi-python)
 
 
-### 3D Recognition
-* **DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**, AAAI 2024, [ :link: ](https://arxiv.org/abs/2312.10616) [ :octocat: ](https://github.com/sijieaaa/DistilVPR)
-* **PointMCD: Boosting Deep Point Cloud Encoders via Multi-view Cross-modal Distillation for 3D Shape Recognition**, IEEE Transactions on Multimedia 2023, [ :link: ](https://arxiv.org/abs/2207.03128) [ :octocat: ](https://github.com/keeganhk/PointMCD)
+### 3D Registration
+* **Unsupervised Point Cloud Registration with Self-Distillation**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2409.07558) [ :octocat: ](https://github.com/boschresearch/direg)
+* **Knowledge distillation-based point cloud registration method**, International Conference on Computer Graphics 2024, [ :link: ](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13105/3026745/Knowledge-distillation-based-point-cloud-registration-method/10.1117/12.3026745.short) 
 
 
 ### 3D Other Tasks
@@ -118,10 +131,6 @@
 * **3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Decatur_3D_Paintbrush_Local_Stylization_of_3D_Shapes_with_Cascaded_Score_CVPR_2024_paper.html) [ :octocat: ](https://threedle.github.io/3d-paintbrush/)
 * **Resolution-free Point Cloud Sampling Network with Data Distillation**, ECCV 2022, [ :link: ](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4326_ECCV_2022_paper.php) [ :octocat: ](https://github.com/Tianxinhuang/PCDNet)
 * **Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation**,  [ :link: ](https://arxiv.org/abs/2309.10932) [ :octocat: ](https://github.com/Fsoft-AIC/Open-Vocabulary-Affordance-Detection-using-Knowledge-Distillation-and-Text-Point-Correlation)
-
-
-
-
 
 
 
