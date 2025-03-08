@@ -9,7 +9,7 @@
   *  [3D Depth Estimation](#3D-Depth-Estimation)
   *  [3D Representation](#3D-Representation)
   *  [3D Recognition](#3D-Recognition)
-  *  [3D Point cloud Completion](#3D-Point-cloud-Completion)
+  *  [3D Completion](#3D-Completion)
   *  [3D Other Tasks](#3D-Other-Tasks)
  
 * [Multi-View](#multi-view)
