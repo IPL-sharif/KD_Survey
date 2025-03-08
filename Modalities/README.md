@@ -118,7 +118,10 @@
 * **Voxel Proposal Network via Multi-Frame Knowledge Distillation for Semantic Scene Completion**, NeurIPS 2025, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b734c30b9c955c535e333f0301f5e45c-Abstract-Conference.html) 
 
 #### Depth Completion
+* **LiDAR Depth Completion Using Color-Embedded Information via Knowledge Distillation**, IEEE Transactions on Intelligent Transportation Systems 2021, [ :link: ](https://ieeexplore.ieee.org/document/9635718)
 * **Monitored Distillation for Positive Congruent Depth Completion**, ECCV 2020, [ :link: ](https://arxiv.org/abs/2203.16034) [ :octocat: ](https://github.com/alexklwong/mondi-python)
+* **ADNet: Non-Local Affinity Distillation Network for Lightweight Depth Completion With Guidance From Missing LiDAR Points**, IEEE Robotics and Automation Letters 2024, [ :link: ](https://ieeexplore.ieee.org/document/10598333)
+* **Multi-Scale Distillation for Low Scanline Resolution Depth Completion**, International Conference on Computer and Communication 2024, [ :link: ](https://ieeexplore.ieee.org/document/10603293)
 
 
 ### 3D Registration
