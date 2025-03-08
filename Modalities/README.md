@@ -4,12 +4,12 @@
   *  [3D Object Detection](#3D-Object-Detection)
   *  [3D Shape Classification](#3D-Shape-Classification)
   *  [3D Segmentation](#3D-Segmentation)
-  *  [3D Registartion](#3D-Registartion)
   *  [3D Domain Adaptation](#3D-Domain-Adaptation)
   *  [3D Depth Estimation](#3D-Depth-Estimation)
   *  [3D Representation](#3D-Representation)
   *  [3D Recognition](#3D-Recognition)
   *  [3D Completion](#3D-Completion)
+  *  [3D Registartion](#3D-Registartion)
   *  [3D Other Tasks](#3D-Other-Tasks)
  
 * [Multi-View](#multi-view)
@@ -106,9 +106,6 @@
 * **HVDistill: Transferring Knowledge from Images to Point Clouds via Unsupervised Hybrid-View Distillation**, IJCV 2024, [ :link: ](https://arxiv.org/abs/2403.11817) [ :octocat: ](https://github.com/zhangsha1024/HVDistill)
 * **Joint representation learning for text and 3d point cloud**, Pattern Recognition 2024, [ :link: ](https://arxiv.org/abs/2301.07584)
 * **Diffusion 3d features (diff3f): Decorating untextured shapes with distilled semantic features**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Dutt_Diffusion_3D_Features_Diff3F_Decorating_Untextured_Shapes_with_Distilled_Semantic_CVPR_2024_paper.html) [ :octocat: ](https://diff3f.github.io/)
-
-
-
 
 ### 3D Recognition
 * **DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**, AAAI 2024, [ :link: ](https://arxiv.org/abs/2312.10616) [ :octocat: ](https://github.com/sijieaaa/DistilVPR)
