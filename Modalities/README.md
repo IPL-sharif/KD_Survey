@@ -86,16 +86,16 @@
 * **Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Sautier_Image-to-Lidar_Self-Supervised_Distillation_for_Autonomous_Driving_Data_CVPR_2022_paper.html) [ :octocat: ](https://github.com/valeoai/SLidR)
 * **Distillation with Contrast is All You Need for Self-Supervised Point Cloud**, arXiv 2022, [ :link: ](https://arxiv.org/abs/2202.04241)
 * **Data Efficient 3D Learner via Knowledge Transferred from 2D Model**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2203.08479) [ :octocat: ](https://github.com/bryanyu1997/Data-Efficient-3D-Learner)
-* **Let Images Give You More: Point Cloud Cross-Modal Training for Shape Analysis**, NeurIPS 2022, [ :link: ]() [ :octocat: ]()
-* **3D Point Cloud Pre-Training with Knowledge Distilled from 2D Images**, ICME 2022, [ :link: ]
-* **LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation**, CVPR 2023, [ :link: ] [ :octocat: ]
-* **Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders**, CVPR 2023, [ :link: ] [ :octocat: ]
-* **Complete-to-Partial 4D Distillation for Self-Supervised Point Cloud Sequence Representation Learning**, CVPR 2023, [ :link: ] [ :octocat: ]
-* **Contrast with Reconstruct: Contrastive 3D Representation Learning Guided by Generative Pretraining**, ICML 2023, [ :link: ]
-* **Multi-View Representation is What You Need for Point-Cloud Pre-Training**, ICLR 2024, [ :link: ] 
-* **HVDistill: Transferring Knowledge from Images to Point Clouds via Unsupervised Hybrid-View Distillation**, IJCV 2024, [ :link: ] [ :octocat: ]
-* **Joint representation learning for text and 3d point cloud**, Pattern Recognition 2024, [ :link: ]
-* **Diffusion 3d features (diff3f): Decorating untextured shapes with distilled semantic features**, CVPR 2024, [ :link: ] [ :octocat: ]
+* **Let Images Give You More: Point Cloud Cross-Modal Training for Shape Analysis**, NeurIPS 2022, [ :link: ](https://arxiv.org/abs/2210.04208) [ :octocat: ](https://github.com/ZhanHeshen/PointCMT)
+* **3D Point Cloud Pre-Training with Knowledge Distilled from 2D Images**, ICME 2022, [ :link: ](https://arxiv.org/abs/2212.08974)
+* **LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_LiDAR2Map_In_Defense_of_LiDAR-Based_Semantic_Map_Construction_Using_Online_CVPR_2023_paper.html) [ :octocat: ](https://github.com/songw-zju/LiDAR2Map)
+* **Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders**, CVPR 2023, [ :link: ](https://arxiv.org/pdf/2212.06785) [ :octocat: ](https://github.com/ZrrSkywalker/I2P-MAE)
+* **Complete-to-Partial 4D Distillation for Self-Supervised Point Cloud Sequence Representation Learning**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Complete-to-Partial_4D_Distillation_for_Self-Supervised_Point_Cloud_Sequence_Representation_Learning_CVPR_2023_paper.html) [ :octocat: ](https://github.com/dongyh20/C2P)
+* **Contrast with Reconstruct: Contrastive 3D Representation Learning Guided by Generative Pretraining**, ICML 2023, [ :link: ](https://arxiv.org/abs/2302.02318) [ :octocat: ](https://github.com/qizekun/ReCon)
+* **Multi-View Representation is What You Need for Point-Cloud Pre-Training**, ICLR 2024, [ :link: ](https://openreview.net/forum?id=imZcqOrbig)
+* **HVDistill: Transferring Knowledge from Images to Point Clouds via Unsupervised Hybrid-View Distillation**, IJCV 2024, [ :link: ](https://arxiv.org/abs/2403.11817) [ :octocat: ](https://github.com/zhangsha1024/HVDistill)
+* **Joint representation learning for text and 3d point cloud**, Pattern Recognition 2024, [ :link: ](https://arxiv.org/abs/2301.07584)
+* **Diffusion 3d features (diff3f): Decorating untextured shapes with distilled semantic features**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Dutt_Diffusion_3D_Features_Diff3F_Decorating_Untextured_Shapes_with_Distilled_Semantic_CVPR_2024_paper.html) [ :octocat: ](https://diff3f.github.io/)
 
 
 
