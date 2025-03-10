@@ -118,7 +118,6 @@
 * **Enhancing the Encoding Process in Point Cloud Completion**, ICCPR 2024, [ :link: ](https://dl.acm.org/doi/10.1145/3704323.3704330)
 
 #### Scene Completion
-* **Dense Top-View Semantic Completion With Sparse Guidance and Online Distillation**, IEEE Transactions on Intelligent Vehicles 2023, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10104125)
 * **SCPNet: Semantic Scene Completion on Point Cloud**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Xia_SCPNet_Semantic_Scene_Completion_on_Point_Cloud_CVPR_2023_paper.html) 
 * **Not All Voxels Are Equal: Hardness-Aware Semantic Scene Completion with Self-Distillation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Not_All_Voxels_Are_Equal_Hardness-Aware_Semantic_Scene_Completion_with_CVPR_2024_paper.html) [ :octocat: ](https://github.com/songw-zju/HASSC)
 * **Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion**, arXive 2024, [ :link: ](https://arxiv.org/abs/2412.03515) [ :octocat: ](https://github.com/happyw1nd/ScoreLiDAR)
