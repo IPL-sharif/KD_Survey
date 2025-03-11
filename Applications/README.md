@@ -35,6 +35,8 @@
 - **Turning dust into gold: Distilling complex reasoning capabilities from llms by leveraging negative data**, AAAI 2024, [ :link: ](https://arxiv.org/abs/2312.12832)[ :octocat: ](https://github.com/Yiwei98/TDG)
 - **PC-LoRA: Low-Rank Adaptation for Progressive Model Compression with Knowledge Distillation**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2406.09117)
 - **Reverse Thinking Makes LLMs Stronger Reasoners**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2411.19865)
+- **UniCoTT: A Unified Framework for Structural Chain-of-Thought Distillation**, ICLR 2025, [ :link: ](https://openreview.net/forum?id=3baOKeI2EU)
+- **MiniPLM: Knowledge Distillation for Pre-Training Language Models**, ICLR 2025, [ :link: ](https://arxiv.org/abs/2410.17215)[ :octocat: ](https://github.com/thu-coai/MiniPLM)
 
 
 
