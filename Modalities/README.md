@@ -155,10 +155,16 @@
 
 ### 3D Shape Recognition
 * **PointMCD: Boosting Deep Point Cloud Encoders via Multi-view Cross-modal Distillation for 3D Shape Recognition**, IEEE Transactions on Multimedia 2023, [ :link: ](https://arxiv.org/abs/2207.03128) [ :octocat: ](https://github.com/keeganhk/PointMCD)
-*  **Group multi-view transformer for 3d shape analysis with spatial encoding**, IEEE Transactions on Multimedia 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10509815) [ :octocat: ](https://github.com/bigdata-graph/GMViT)
+* **Group multi-view transformer for 3d shape analysis with spatial encoding**, IEEE Transactions on Multimedia 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10509815) [ :octocat: ](https://github.com/bigdata-graph/GMViT)
 
-
-
+### Other Tasks
+* **Multi-view teacher–student network**, Neural Networks 2022, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0893608021004305)
+* **Visual-Policy Learning Through Multi-Camera View to Single-Camera View Knowledge Distillation for Robot Manipulation Tasks**, IEEE Robotics and Automation Letters 2023, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10327777)
+* **Structured knowledge distillation towards efficient multi-view 3d object detection**, BMVC 2023, [ :link: ](https://papers.bmvc2023.org/0339.pdf)
+* **Kd-mvs: Knowledge distillation based self-supervised learning for multi-view stereo**, ECCV 2022, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_36) [ :octocat: ](https://github.com/megvii-research/KD-MVS)
+* **Multi-view knowledge distillation for efficient semantic segmentation**, Journal of Real-Time Image Processing 2023, [ :link: ](https://link.springer.com/article/10.1007/s11554-023-01296-6) 
+* **Multi-view knowledge distillation transformer for human action recognition**, ArXiv 2023, [ :link: ](https://arxiv.org/abs/2303.14358)
+* **Mt-mv-kdf: A novel multi-task multi-view knowledge distillation framework for myocardial infarction detection and localization**, Biomedical Signal Processing and Control 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S1746809424004403)
 
 
 
