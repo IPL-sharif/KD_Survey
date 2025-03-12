@@ -149,9 +149,13 @@
 * **X3kd: Knowledge distillation across modalities, tasks and stages for multi-camera 3d object detection**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Klingner_X3KD_Knowledge_Distillation_Across_Modalities_Tasks_and_Stages_for_Multi-Camera_CVPR_2023_paper.html)
 * **Simdistill: Simulated multi-modal distillation for bev 3d object detection**, AAAI conference on artificial intelligence , [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/28577) [ :octocat: ](https://github.com/ViTAE-Transformer/SimDistill)
 * **Fsd-bev: Foreground self-distillation for multi-view 3d object detection**, ECCV 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-73242-3_7) [ :octocat: ](https://github.com/CocoBoom/fsd-bev)
-* **Bev-lgkd: A unified lidar-guided knowledge distillation framework for bev 3d object detection**, [ :link: ](https://arxiv.org/abs/2212.00623) [ :octocat: ](https://github.com/NorthSummer/LGKD)
-* **Bevdistill: Cross-modal bev distillation for multi-view 3d object detection**, [ :link: ](https://arxiv.org/abs/2211.09386) [ :octocat: ](https://github.com/zehuichen123/BEVDistill)
+* **Bev-lgkd: A unified lidar-guided knowledge distillation framework for bev 3d object detection**, arXiv 2022, [ :link: ](https://arxiv.org/abs/2212.00623) [ :octocat: ](https://github.com/NorthSummer/LGKD)
+* **Bevdistill: Cross-modal bev distillation for multi-view 3d object detection**, arXiv 2022, [ :link: ](https://arxiv.org/abs/2211.09386) [ :octocat: ](https://github.com/zehuichen123/BEVDistill)
 * **Stxd: structural and temporal cross-modal distillation for multi-view 3d object detection**, NeurIPS 2023 [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5d8c01de2dc698c54201c1c7d0b86974-Abstract-Conference.html)
+
+### 3D Shape Recognition
+* **PointMCD: Boosting Deep Point Cloud Encoders via Multi-view Cross-modal Distillation for 3D Shape Recognition**, IEEE Transactions on Multimedia 2023, [ :link: ](https://arxiv.org/abs/2207.03128) [ :octocat: ](https://github.com/keeganhk/PointMCD)
+*  **Group multi-view transformer for 3d shape analysis with spatial encoding**, IEEE Transactions on Multimedia 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10509815) [ :octocat: ](https://github.com/bigdata-graph/GMViT)
 
 
 
