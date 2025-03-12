@@ -144,6 +144,10 @@
 
 
 ## Multi-View
+### 3D Object Detection
+* **Distillbev: Boosting multi-camera 3d object detection with cross-modal knowledge distillation**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_DistillBEV_Boosting_Multi-Camera_3D_Object_Detection_with_Cross-Modal_Knowledge_Distillation_ICCV_2023_paper.html) [ :octocat: ](https://github.com/qcraftai/distill-bev)
+* **X3kd: Knowledge distillation across modalities, tasks and stages for multi-camera 3d object detection**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Klingner_X3KD_Knowledge_Distillation_Across_Modalities_Tasks_and_Stages_for_Multi-Camera_CVPR_2023_paper.html)
+*  **
 
 
 
