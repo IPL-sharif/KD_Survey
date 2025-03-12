@@ -13,6 +13,9 @@
   *  [Other 3D Tasks](#Other-3D-Tasks)
  
 * [Multi-View](#multi-view)
+  *  [3D Object Detection](#3d-object-detection)
+  *  [3D Shape Recognition](#3d-shape-recognition)
+  *  [Other Tasks](#other-tasks)
 
 
 * [Text](#text)
