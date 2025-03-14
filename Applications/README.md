@@ -1,9 +1,9 @@
 ## Distillation Applications
 *  [Large Language Models](#Large-Language-Models)
-*  [Self-Supervised Learning](#Self-Supervised-Learning)
 *  [Foundation Models](#foundation-models)
+*  [Self-Supervised Learning](#Self-Supervised-Learning)
 *  [Diffusion Models](#diffusion-models)
-*  [Knowledge Distillation in Visual Recognition](#knowledge-distillation-in-visual-recognition)
+*  [Visual Recognition](#knowledge-distillation-in-visual-recognition)
 
 
 ---
@@ -39,6 +39,7 @@
 - **MiniPLM: Knowledge Distillation for Pre-Training Language Models**, ICLR 2025, [ :link: ](https://arxiv.org/abs/2410.17215)[ :octocat: ](https://github.com/thu-coai/MiniPLM)
 
 
+## Foundation Models
 
 
 ## Self-Supervised Learning
@@ -61,9 +62,6 @@
 - **Masked Video Distillation: Rethinking Masked Feature Modeling for Self-Supervised Video Representation Learning**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2212.04500)[ :octocat: ](https://github.com/ruiwang2021/mvd)
 - **Multi-Mode Online Knowledge Distillation for Self-Supervised Visual Representation Learning**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2304.06461)[ :octocat: ](https://github.com/skyoux/mokd)
 - **DINOv2: Learning Robust Visual Features without Supervision**, TMLR 2024, [ :link: ](https://arxiv.org/abs/2304.07193)[ :octocat: ](https://github.com/facebookresearch/dinov2)
-
-
-## Foundation Models
 
 
 ## Diffusion Models
