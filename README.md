@@ -53,8 +53,8 @@ Deep Neural Networks (DNNs) have achieved notable performance in the fields of C
 
 ### [Applications of Distillation](Applications/)
 - [Large Language Models](Applications/README.md#Self-Supervised-Learning)
-- [Self-Supervised Learning](Applications/README.md#Large-Language-Models)
 - [Foundation Models](Applications/README.md#foundation-models)
+- [Self-Supervised Learning](Applications/README.md#Large-Language-Models)
 - [Diffusion Models](Applications/README.md#diffusion-models)
 - [Visual Recognition](Applications/README.md#knowledge-distillation-in-visual-recognition)
 
