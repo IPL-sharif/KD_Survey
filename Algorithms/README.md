@@ -232,3 +232,4 @@
 - **DistilCSE: Effective Knowledge Distillation For Contrastive Sentence Embeddings**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2112.05638)
 - **Contrastive Representation Distillation**, arXiv 2019, [ :link: ](https://arxiv.org/abs/1910.10699) [ :octocat: ](https://github.com/HobbitLong/RepDistiller)
 - **Dimensionality Reduction by Learning an Invariant Mapping**, CVPR 2006, [ :link: ](https://ieeexplore.ieee.org/abstract/document/1640964)
+ 
