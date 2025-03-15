@@ -65,6 +65,25 @@
 
 
 ## Diffusion Models
+- **Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed**, Arxiv 2021, [ :link: ](https://arxiv.org/abs/2101.02388)[ :octocat: ](https://github.com/tcl9876/Denoising_Student)
+- **Progressive Distillation for Fast Sampling of Diffusion Models**, ICLR 2022, [ :link: ](https://arxiv.org/abs/2202.00512)[ :octocat: ](https://github.com/Hramchenko/diffusion_distiller)
+- **Accelerating diffusion sampling with classifier-based feature distillation**, ICME 2023, [ :link: ](https://arxiv.org/abs/2211.12039)[ :octocat: ]([https://github.com/facebookresearch/dinov2](https://github.com/zju-SWJ/RCFD))
+- **Consistency Models**, PMLR 2023, [ :link: ](https://arxiv.org/abs/2303.01469)[ :octocat: ](https://github.com/openai/consistency_models)
+- **Fast Sampling of Diffusion Models via Operator Learning**, PMLR 2023, [ :link: ](https://arxiv.org/abs/2211.13449)
+- **Diffusion-GAN: Training GANs with Diffusion**, ICLR 2023, [ :link: ](https://arxiv.org/abs/2206.02262)[ :octocat: ](https://github.com/Zhendong-Wang/Diffusion-GAN)
+- **ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**, NeurIPS 2023, [ :link: ](https://arxiv.org/abs/2305.16213)[ :octocat: ](https://github.com/thu-ml/prolificdreamer)
+- **Diff-Instruct: A Universal Approach for Transferring Knowledge From Pre-trained Diffusion Models**, NeurIPS 2023, [ :link: ](https://arxiv.org/abs/2305.18455)[ :octocat: ](https://github.com/pkulwj1994/diff_instruct)
+- **Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference**, Arxiv 2023, [ :link: ](https://arxiv.org/abs/2310.04378)[ :octocat: ](https://github.com/luosiallen/latent-consistency-model)
+- **Adversarial Diffusion Distillation**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2311.17042)[ :octocat: ](https://github.com/leffff/adversarial-diffusion-distillation)
+- **Improved Techniques for Training Consistency Models**, ICLR 2024, [ :link: ](https://arxiv.org/abs/2310.14189)
+- **Relational diffusion distillation for efficient image generation**, ACM MM 2024, [ :link: ](https://arxiv.org/abs/2410.07679)[ :octocat: ](https://github.com/cantbebetter2/RDD)
+- **Multistep Distillation of Diffusion Models via Moment Matching**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2406.04103)
+- **EM Distillation for One-step Diffusion Models**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2405.16852)
+- **One-step Diffusion with Distribution Matching Distillation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2311.18828)[ :octocat: ](https://github.com/devrimcavusoglu/dmd)
+- **Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2410.11081)[ :octocat: ](https://github.com/xandergos/sCM-mnist)
+- **Consistency Models Made Easy**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2406.14548)[ :octocat: ](https://github.com/locuslab/ect)
+- **TLCM: Training-efficient Latent Consistency Model for Image Generation with 2-8 Steps**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2406.05768)[ :octocat: ](https://github.com/oppo-mente-lab/tlcm)
+
 
 
 ## Knowledge Distillation in Visual Recognition
