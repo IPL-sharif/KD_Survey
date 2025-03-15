@@ -42,4 +42,4 @@
 - **A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation**, TIP 2024, [ :link: ](https://arxiv.org/abs/2403.03483)[ :octocat: ](https://github.com/LirongWu/TGS)
 - **Restructuring the Teacher and Student in Self-Distillation**, TIP 2024, [ :link: ](https://ieeexplore.ieee.org/document/10693311)
 - **A Feature Map Fusion Self-Distillation Scheme for Image Classification Networks**, Electronics 2025, [ :link: ](https://www.mdpi.com/2079-9292/14/1/182) 
-
+ 
