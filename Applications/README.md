@@ -40,6 +40,15 @@
 
 
 ## Foundation Models
+- CLIP
+- GPT
+- DALL-E
+- SAM
+- DINO
+- ViT
+- DETR
+- DeiT
+  
 ### Vision-Language Models (VLMs)
 ### Segment Anything (SAM)
 ### Multi-model Applications
