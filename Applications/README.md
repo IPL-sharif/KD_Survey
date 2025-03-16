@@ -40,14 +40,16 @@
 
 
 ## Foundation Models
-- CLIP
-- GPT
-- DALL-E
-- SAM
-- DINO
-- ViT
-- DETR
-- DeiT
+#### **CLIP**
+- **GPT**
+- **DALL-E**
+- **SAM**
+- **ViT**
+- **DeiT**
+- **DINO**
+- **DETR**
+- **Swin Transformer**
+
   
 ### Vision-Language Models (VLMs)
 ### Segment Anything (SAM)
