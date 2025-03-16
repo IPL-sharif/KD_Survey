@@ -40,15 +40,19 @@
 
 
 ## Foundation Models
-#### **CLIP**
+### Prominent Foundation Models
+- **CLIP** : 263
 - **GPT**
-- **DALL-E**
-- **SAM**
-- **ViT**
-- **DeiT**
-- **DINO**
-- **DETR**
-- **Swin Transformer**
+- - 483
+- - 489
+- - 490
+- **DALL-E** :491
+- **SAM** : 492
+- **ViT** : 494
+- **DeiT** : 497
+- **DINO** : 493
+- **DETR** : 495
+- **Swin Transformer** : 496
 
   
 ### Vision-Language Models (VLMs)
