@@ -98,6 +98,14 @@
         - **FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2303.17225)[ :octocat: ](https://freeseg.github.io/)
         - **Exploring Open-Vocabulary Semantic Segmentation from CLIP Vision Encoder Distillation Only**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Exploring_Open-Vocabulary_Semantic_Segmentation_from_CLIP_Vision_Encoder_Distillation_Only_ICCV_2023_paper.pdf)[ :octocat: ](https://github.com/facebookresearch/ZeroSeg)
         - **CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free**, WACV 2024, [ :link: ](https://arxiv.org/abs/2309.14289)
+
+    - **Open-Vocabulary Part Segmentation**
+
+        - **Understanding Multi-Granularity for Open-Vocabulary Part Segmentation**, NeurIPS 2025, [ :link: ](https://arxiv.org/abs/2406.11384)[ :octocat: ](https://github.com/kaist-cvml/part-clipseg)
+
+    - **Open-Vocabulary Customization**
+
+        - **Open-Vocabulary Customization from CLIP via Data-Free Knowledge Distillation**, ICLR 2025, [ :link: ](https://openreview.net/forum?id=1aF2D2CPHi)
         
 ### Segment Anything (SAM)
 ### Multi-model Applications
