@@ -55,6 +55,10 @@
 - **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.html)[ :octocat: ](https://github.com/microsoft/Swin-Transformer)
 
 ### Vision-Language Models (VLMs)
+- **Simple open-vocabulary object detection**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2205.06230)[ :octocat: ](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)
+- **Learning to Detect and Segment for Open Vocabulary Object Detection**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2212.12130)
+- **PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2404.09011)[ :octocat: ](https://github.com/znchen666/HDG)
+
 ### Segment Anything (SAM)
 ### Multi-model Applications
 ### Vision Transformers
