@@ -13,7 +13,7 @@ Deep Neural Networks (DNNs) have achieved notable performance in the fields of c
 </p>
 
 
-## 📚 Existing Survys on Knowledge Distillation
+## 📚 Existing Surveys on Knowledge Distillation
 - **Knowledge Distillation: A Survey**, IJCV 2021, [ :link: ](https://arxiv.org/abs/2006.05525)
 - **Knowledge Distillation in Deep Learning and its Applications**, Peer J Computer Science 2021, [ :link: ](https://arxiv.org/abs/2007.09029)
 - **Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks**, T-PAMI 2021, [ :link: ](https://arxiv.org/abs/2004.05937)
