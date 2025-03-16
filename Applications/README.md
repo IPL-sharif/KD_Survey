@@ -43,18 +43,17 @@
 ### Prominent Foundation Models
 - **CLIP** : **Learning transferable visual models from natural language supervision**, PMLR 2021, [ :link: ](https://proceedings.mlr.press/v139/radford21a)[ :octocat: ](https://github.com/OpenAI/CLIP)
 - **GPT**
+- - **GPT-1: Improving Language Understanding by Generative Pre-Training**, OpenAI 2018, [ :link: ](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - - **Gpt-3: Language Models are Few-Shot Learners**, NeurIPS 2020, [ :link: ](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
-- - 489
-- - **Gpt-4: A Review on Advancements and Opportunities in Natural Language Processing**, arXiv 2023, [ :link: ](https://proceedings.mlr.press/v139/radford21a)
-- **DALL-E** :491
-- **SAM** : 492
-- **ViT** : 494
-- **DeiT** : 497
-- **DINO** : 493
-- **DETR** : 495
-- **Swin Transformer** : 496
+- - **Gpt-4: A Review on Advancements and Opportunities in Natural Language Processing**, arXiv 2023, [ :link: ](https://arxiv.org/abs/2305.03195)
+- **DALL-E: Zero-Shot Text-to-Image Generation**, ICML 2021, [ :link: ](https://arxiv.org/abs/2102.12092)[ :octocat: ](https://github.com/openai/DALL-E)
+- **SAM: Segment Anything**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2304.02643)[ :octocat: ](https://github.com/facebookresearch/segment-anything)
+- **ViT: An image is worth 16x16 words: Transformers for image recognition at scale**, arXiv 2020, [ :link: ](https://arxiv.org/abs/2010.11929)[ :octocat: ](https://github.com/google-research/vision_transformer)
+- **DeiT: Training data-efficient image transformers & distillation through attention**,ICML 2021, [ :link: ](https://arxiv.org/abs/2012.12877)[ :octocat: ](https://github.com/facebookresearch/deit)
+- **DINO: Emerging Properties in Self-Supervised Vision Transformers**, ICCV 2021 [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)[ :octocat: ](https://github.com/facebookresearch/dino)
+- **DETR: End-to-End Object Detection with Transformers**, ECCV 2020, [ :link: ](https://ai.meta.com/research/publications/end-to-end-object-detection-with-transformers/)[ :octocat: ](https://github.com/facebookresearch/detr)
+- **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.html)[ :octocat: ](https://github.com/microsoft/Swin-Transformer)
 
-  
 ### Vision-Language Models (VLMs)
 ### Segment Anything (SAM)
 ### Multi-model Applications
