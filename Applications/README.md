@@ -117,6 +117,14 @@
         - **Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2406.11189)[ :octocat: ](https://github.com/zbf1991/WeCLIP)
         - **DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2409.15801)
         - **WeakCLIP: Adapting CLIP for Weakly-Supervised Semantic Segmentation**, IJCV 2025, [ :link: ](https://link.springer.com/article/10.1007/s11263-024-02224-2)[ :octocat: ](https://github.com/hustvl/WeakCLIP)
+
+    - **Prompt Learning**
+        - **Learning to Prompt for Vision-Language Models**, IJCV 2022, [ :link: ](https://arxiv.org/abs/2109.01134)[ :octocat: ](https://github.com/KaiyangZhou/CoOp)
+        - **Conditional Prompt Learning for Vision-Language Models**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2203.05557)[ :octocat: ](https://github.com/KaiyangZhou/CoOp)
+        - **DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2112.01518)[ :octocat: ](https://github.com/raoyongming/DenseCLIP)
+        - **Domain Adaptation via Prompt Learning**, T-NNLS 2023, [ :link: ](https://arxiv.org/abs/2202.06687)
+        - **PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2403.02781)[ :octocat: ](https://github.com/zhengli97/PromptKD)
+        
         
 ### Segment Anything (SAM)
 ### Multi-model Applications
