@@ -282,7 +282,7 @@
 - **HRPose: Real-Time High-Resolution 6D Pose Estimation Network Using Knowledge Distillation**, Chinese Journal of Electronics 2023, [ :link: ](https://ieeexplore.ieee.org/iel7/9970761/10038784/10038797.pdf)
 - **SDPose: Tokenized Pose Estimation via Circulation-Guide Self-Distillation**, CVPR 2024, [ :link: ](https://www.computer.org/csdl/proceedings-article/cvpr/2024/530000b082/20hRz5SEpfW)[ :octocat: ](https://github.com/MartyrPenink/SDPose)
 
-### Image retrieval
+### Image Retrieval
 
 - **Uncertainty-aware multi-shot knowledge distillation for image-based object re-identification**, AAAI 2020, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/6774)
 - **Robust re-identification by multiple views knowledge distillation**, ECCV 2020, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_6)[ :octocat: ](https://github.com/aimagelab/VKD)
