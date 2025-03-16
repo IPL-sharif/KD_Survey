@@ -40,6 +40,10 @@
 
 
 ## Foundation Models
+### Vision-Language Models (VLMs)
+### Segment Anything (SAM)
+### Multi-model Applications
+### Vision Transformers
 
 
 ## Self-Supervised Learning
