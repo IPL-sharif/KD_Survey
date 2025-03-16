@@ -41,48 +41,67 @@
 
 ## Foundation Models
 ### Prominent Foundation Models
-- **CLIP** : **Learning transferable visual models from natural language supervision**, PMLR 2021, [ :link: ](https://proceedings.mlr.press/v139/radford21a)[ :octocat: ](https://github.com/OpenAI/CLIP)
+- **CLIP** : **Learning Transferable Visual Models From Natural Language Supervision**, PMLR 2021, [ :link: ](https://proceedings.mlr.press/v139/radford21a)[ :octocat: ](https://github.com/OpenAI/CLIP)
 - **GPT**
     - **GPT-1: Improving Language Understanding by Generative Pre-Training**, OpenAI 2018, [ :link: ](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
     - **Gpt-3: Language Models are Few-Shot Learners**, NeurIPS 2020, [ :link: ](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
     - **Gpt-4: A Review on Advancements and Opportunities in Natural Language Processing**, arXiv 2023, [ :link: ](https://arxiv.org/abs/2305.03195)
 - **DALL-E: Zero-Shot Text-to-Image Generation**, ICML 2021, [ :link: ](https://arxiv.org/abs/2102.12092)[ :octocat: ](https://github.com/openai/DALL-E)
 - **SAM: Segment Anything**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2304.02643)[ :octocat: ](https://github.com/facebookresearch/segment-anything)
-- **ViT: An image is worth 16x16 words: Transformers for image recognition at scale**, arXiv 2020, [ :link: ](https://arxiv.org/abs/2010.11929)[ :octocat: ](https://github.com/google-research/vision_transformer)
+- **ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**, arXiv 2020, [ :link: ](https://arxiv.org/abs/2010.11929)[ :octocat: ](https://github.com/google-research/vision_transformer)
 - **DeiT: Training data-efficient image transformers & distillation through attention**, ICML 2021, [ :link: ](https://arxiv.org/abs/2012.12877)[ :octocat: ](https://github.com/facebookresearch/deit)
 - **DINO: Emerging Properties in Self-Supervised Vision Transformers**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)[ :octocat: ](https://github.com/facebookresearch/dino)
 - **DETR: End-to-End Object Detection with Transformers**, ECCV 2020, [ :link: ](https://ai.meta.com/research/publications/end-to-end-object-detection-with-transformers/)[ :octocat: ](https://github.com/facebookresearch/detr)
 - **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.html)[ :octocat: ](https://github.com/microsoft/Swin-Transformer)
 
 ### Vision-Language Models (VLMs)
-- **Simple open-vocabulary object detection**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2205.06230)[ :octocat: ](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)
+- **Simple Open-Vocabulary Object Detection with Vision Transformers**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2205.06230)[ :octocat: ](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)
 - **Learning to Detect and Segment for Open Vocabulary Object Detection**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2212.12130)
 - **PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2404.09011)[ :octocat: ](https://github.com/znchen666/HDG)
 
 - **CLIP**
+
     - **Open-Vocabulary Object Detection**
-        - **Open-vocabulary object detection via vision and language knowledge distillation**, ICLR 2021, [ :link: ](https://arxiv.org/abs/2104.13921)[ :octocat: ](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
-        - **Detecting twenty-thousand classes using image-level supervision**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2201.02605)[ :octocat: ](https://github.com/facebookresearch/Detic)
-        - **Learning to prompt for open-vocabulary object detection with vision-language model**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Du_Learning_To_Prompt_for_Open-Vocabulary_Object_Detection_With_Vision-Language_Model_CVPR_2022_paper.html?ref=blog.roboflow.com)[ :octocat: ](https://github.com/mengqiDyangge/HierKD)
-        - **Open-vocabulary detr with conditional matching**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2203.11876)[ :octocat: ](https://github.com/yuhangzang/OV-DETR)
-        - **F-vlm: Open-vocabulary object detection upon frozen vision and language models**, arXiv 2022, [ :link: ](https://arxiv.org/abs/2209.15639)
-        - **Bridging the gap between object and image-level representations for open-vocabulary detection**, NeurIPS 2022, [ :link: ](https://arxiv.org/abs/2207.03482)[ :octocat: ](https://github.com/hanoonaR/object-centric-ovd)
-        - **Promptdet: Towards open-vocabulary detection using uncurated images**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2203.16513)[ :octocat: ](https://github.com/salesforce/PB-OVD)
+
+        - **Open-vocabulary Object Detection via Vision and Language Knowledge Distillation**, ICLR 2021, [ :link: ](https://arxiv.org/abs/2104.13921)[ :octocat: ](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
+        - **Detecting Twenty-thousand Classes using Image-level Supervision**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2201.02605)[ :octocat: ](https://github.com/facebookresearch/Detic)
+        - **Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Du_Learning_To_Prompt_for_Open-Vocabulary_Object_Detection_With_Vision-Language_Model_CVPR_2022_paper.html?ref=blog.roboflow.com)[ :octocat: ](https://github.com/mengqiDyangge/HierKD)
+        - **Open-Vocabulary DETR with Conditional Matching**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2203.11876)[ :octocat: ](https://github.com/yuhangzang/OV-DETR)
+        - **F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models**, arXiv 2022, [ :link: ](https://arxiv.org/abs/2209.15639)
+        - **Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection**, NeurIPS 2022, [ :link: ](https://arxiv.org/abs/2207.03482)[ :octocat: ](https://github.com/hanoonaR/object-centric-ovd)
+        - **PromptDet: Towards Open-vocabulary Detection using Uncurated Images**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2203.16513)[ :octocat: ](https://github.com/salesforce/PB-OVD)
         - **DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection**, NeurIPS 2022, [ :link: ](https://arxiv.org/abs/2209.09407)
-        - **Exploiting unlabeled data with vision and language models for object detection**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2207.08954)[ :octocat: ](https://github.com/xiaofeng94/VL-PLM)
-        - **Learning object-language alignments for open vocabulary object detection**, arXiv 2022, [ :link: ](https://arxiv.org/abs/2211.14843)[ :octocat: ](https://github.com/clin1223/VLDet)
-        - **Open-vocabulary one-stage detection with hierarchical visual-language knowledge distillation**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2203.10593)[ :octocat: ](https://github.com/mengqiDyangge/HierKD)
-        - **Open-vocabulary instance segmentation via robust cross-modal pseudo-labeling**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2111.12698)[ :octocat: ](https://github.com/hbdat/cvpr22_cross_modal_pseudo_labeling)
-        - **Open vocabulary object detection with pseudo bounding-box labels**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2111.09452)[ :octocat: ](https://github.com/salesforce/PB-OVD)
-        - **Fine-grained visual-text prompt-driven self-training for open-vocabulary object detection**, TNNLS 2022, [ :link: ](https://arxiv.org/abs/2211.00849)
-        - **Zero-shot Object Detection Through Vision Language Embedding Alignment**, ICDM 2022, [ :link: ](https://arxiv.org/abs/2109.12066)[ :octocat: ](https://github.com/Johnathan-Xie/ZSD-YOLO)
-        - **Aligning bag of regions for open-vocabulary object detection**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2302.13996)[ :octocat: ](https://github.com/LutingWang/OADP)
-        - **Region-aware pretraining for open-vocabulary object detection with vision transformers**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2305.07011)
-        - **Object-aware distillation pyramid for openvocabulary object detection**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2303.05892)[ :octocat: ](https://github.com/LutingWang/OADP)
+        - **Exploiting Unlabeled Data with Vision and Language Models for Object Detection**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2207.08954)[ :octocat: ](https://github.com/xiaofeng94/VL-PLM)
+        - **Learning Object-Language Alignments for Open-Vocabulary Object Detection**, arXiv 2022, [ :link: ](https://arxiv.org/abs/2211.14843)[ :octocat: ](https://github.com/clin1223/VLDet)
+        - **Open-Vocabulary One-Stage Detection with Hierarchical Visual-Language Knowledge Distillation**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2203.10593)[ :octocat: ](https://github.com/mengqiDyangge/HierKD)
+        - **Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2111.12698)[ :octocat: ](https://github.com/hbdat/cvpr22_cross_modal_pseudo_labeling)
+        - **Open Vocabulary Object Detection with Pseudo Bounding-Box Labels**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2111.09452)[ :octocat: ](https://github.com/salesforce/PB-OVD)
+        - **Fine-grained Visual-Text Prompt-Driven Self-Training for Open-Vocabulary Object Detection**, TNNLS 2022, [ :link: ](https://arxiv.org/abs/2211.00849)
+        - **Zero-shot Object Detection Through Vision-Language Embedding Alignment**, ICDM 2022, [ :link: ](https://arxiv.org/abs/2109.12066)[ :octocat: ](https://github.com/Johnathan-Xie/ZSD-YOLO)
+        - **Aligning Bag of Regions for Open-Vocabulary Object Detection**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2302.13996)[ :octocat: ](https://github.com/LutingWang/OADP)
+        - **Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2305.07011)
+        - **Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2303.05892)[ :octocat: ](https://github.com/LutingWang/OADP)
+
+    - **Open-Vocabulary Semantic Segmentation**
+
+        - **Language-driven Semantic Segmentation**, ICLR 2021, [ :link: ](https://arxiv.org/abs/2201.03546)[ :octocat: ](https://github.com/isl-org/lang-seg)
+        - **Semantic Segmentation In-the-Wild Without Seeing Any Segmentation Examples**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2112.03185)
+        - **Extract Free Dense Labels from CLIP**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2112.01071)[ :octocat: ](https://github.com/chongzhou96/MaskCLIP)
+        - **Image Segmentation Using Text and Image Prompts**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2112.10003)[ :octocat: ](https://github.com/dingjiansw101/ZegFormer)
+        - **Scaling Open-Vocabulary Image Segmentation with Image-Level Labels**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2112.12143)[ :octocat: ](https://github.com/NoelShin/reco)
+        - **Decoupling Zero-Shot Semantic Segmentation**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2112.07910)[ :octocat: ](https://github.com/dingjiansw101/ZegFormer)
+        - **A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-language Model**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2112.14757)[ :octocat: ](https://github.com/MendelXu/zsseg.baseline)
+        - **ReCo: Retrieve and Co-segment for Zero-shot Transfer**, NeurIPS 2022, [ :link: ](https://arxiv.org/abs/2206.07045)[ :octocat: ](https://github.com/CVI-SZU/CLIMS)
+        - **Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models**, arXiv 2022, [ :link: ](https://arxiv.org/abs/2210.15138)[ :octocat: ](https://github.com/chaofanma/Fusioner)
+        - **Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2210.04150)[ :octocat: ](https://github.com/MendelXu/zsseg.baseline)
+        - **ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2212.03588)[ :octocat: ](https://github.com/chaofanma/Fusioner)
+        - **FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2303.17225)[ :octocat: ](https://freeseg.github.io/)
+        - **Exploring Open-Vocabulary Semantic Segmentation from CLIP Vision Encoder Distillation Only**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Exploring_Open-Vocabulary_Semantic_Segmentation_from_CLIP_Vision_Encoder_Distillation_Only_ICCV_2023_paper.pdf)[ :octocat: ](https://github.com/facebookresearch/ZeroSeg)
+        - **CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free**, WACV 2024, [ :link: ](https://arxiv.org/abs/2309.14289)
+        
 ### Segment Anything (SAM)
 ### Multi-model Applications
 ### Vision Transformers
-
 
 ## Self-Supervised Learning
 
