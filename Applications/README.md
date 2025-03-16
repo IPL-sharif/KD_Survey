@@ -106,6 +106,17 @@
     - **Open-Vocabulary Customization**
 
         - **Open-Vocabulary Customization from CLIP via Data-Free Knowledge Distillation**, ICLR 2025, [ :link: ](https://openreview.net/forum?id=1aF2D2CPHi)
+
+    - **Weakly Supervised Semantic Segmentation**
+
+        - **Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2203.02668)[ :octocat: ](https://github.com/CVI-SZU/CLIMS)
+        - **CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2212.09506)[ :octocat: ](https://github.com/linyq2117/CLIP-ES)
+        - **Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf)[ :octocat: ](https://github.com/xulianuwa/MMCST)
+        - **Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, ACM MM 2023, [ :link: ](https://arxiv.org/abs/2401.09883)[ :octocat: ](https://github.com/CVI-SZU/QA-CLIMS)
+        - **Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation**, WACV 2024, [ :link: ](https://arxiv.org/abs/2307.00097)[ :octocat: ](https://github.com/Ruxie189/WSS_POLE)
+        - **Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2406.11189)[ :octocat: ](https://github.com/zbf1991/WeCLIP)
+        - **DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2409.15801)
+        - **WeakCLIP: Adapting CLIP for Weakly-Supervised Semantic Segmentation**, IJCV 2025, [ :link: ](https://link.springer.com/article/10.1007/s11263-024-02224-2)[ :octocat: ](https://github.com/hustvl/WeakCLIP)
         
 ### Segment Anything (SAM)
 ### Multi-model Applications
