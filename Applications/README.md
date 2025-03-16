@@ -124,7 +124,19 @@
         - **DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2112.01518)[ :octocat: ](https://github.com/raoyongming/DenseCLIP)
         - **Domain Adaptation via Prompt Learning**, T-NNLS 2023, [ :link: ](https://arxiv.org/abs/2202.06687)
         - **PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2403.02781)[ :octocat: ](https://github.com/zhengli97/PromptKD)
-        
+
+    - **Generation and Editing**
+        - **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2103.17249)[ :octocat: ](https://github.com/orpatashnik/StyleCLIP)
+        - **StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators**, ACM SIGGRAPH 2022, [ :link: ](https://arxiv.org/abs/2108.00946)[ :octocat: ](http://stylegan-nada.github.io/)
+        - **Zero-Shot Text-Guided Object Generation with Dream Fields**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2112.01455)[ :octocat: ](https://ajayj.com/dreamfields)
+        - **CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2112.05139)[ :octocat: ](https://cassiepython.github.io/clipnerf/)
+        - **Text2Mesh: Text-Driven Neural Stylization for Meshes**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2112.03221)[ :octocat: ](https://threedle.github.io/text2mesh/)
+        - **Decomposing NeRF for Editing via Feature Field Distillation**, NeurIPS 2022, [ :link: ](https://arxiv.org/abs/2205.15585)[ :octocat: ](https://pfnet-research.github.io/distilled-feature-fields/)
+        - **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars**, ACM Trans. Graph 2022, [ :link: ](https://arxiv.org/abs/2205.08535)
+        - **CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2110.02624)[ :octocat: ](https://github.com/AutodeskAILab/Clip-Forge)
+        - **CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions**, ACM SIGGRAPH 2022, [ :link: ](https://arxiv.org/abs/2112.05219)
+        - **Text and Image Guided 3D Avatar Generation and Manipulation**, WACV 2023, [ :link: ](https://arxiv.org/abs/2202.06079)
+        - **Local 3D Editing via 3D Distillation of CLIP Knowledge**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2306.12570)
         
 ### Segment Anything (SAM)
 ### Multi-model Applications
