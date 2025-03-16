@@ -41,11 +41,11 @@
 
 ## Foundation Models
 ### Prominent Foundation Models
-- **CLIP** : 263
+- **CLIP** : **Learning transferable visual models from natural language supervision**, PMLR 2021, [ :link: ](https://proceedings.mlr.press/v139/radford21a)[ :octocat: ](https://github.com/OpenAI/CLIP)
 - **GPT**
-- - 483
+- - **Gpt-3: Language Models are Few-Shot Learners**, NeurIPS 2020, [ :link: ](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
 - - 489
-- - 490
+- - **Gpt-4: A Review on Advancements and Opportunities in Natural Language Processing**, arXiv 2023, [ :link: ](https://proceedings.mlr.press/v139/radford21a)
 - **DALL-E** :491
 - **SAM** : 492
 - **ViT** : 494
