@@ -119,6 +119,7 @@
         - **WeakCLIP: Adapting CLIP for Weakly-Supervised Semantic Segmentation**, IJCV 2025, [ :link: ](https://link.springer.com/article/10.1007/s11263-024-02224-2)[ :octocat: ](https://github.com/hustvl/WeakCLIP)
 
     - **Prompt Learning**
+        
         - **Learning to Prompt for Vision-Language Models**, IJCV 2022, [ :link: ](https://arxiv.org/abs/2109.01134)[ :octocat: ](https://github.com/KaiyangZhou/CoOp)
         - **Conditional Prompt Learning for Vision-Language Models**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2203.05557)[ :octocat: ](https://github.com/KaiyangZhou/CoOp)
         - **DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2112.01518)[ :octocat: ](https://github.com/raoyongming/DenseCLIP)
@@ -126,6 +127,7 @@
         - **PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2403.02781)[ :octocat: ](https://github.com/zhengli97/PromptKD)
 
     - **Generation and Editing**
+
         - **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2103.17249)[ :octocat: ](https://github.com/orpatashnik/StyleCLIP)
         - **StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators**, ACM SIGGRAPH 2022, [ :link: ](https://arxiv.org/abs/2108.00946)[ :octocat: ](http://stylegan-nada.github.io/)
         - **Zero-Shot Text-Guided Object Generation with Dream Fields**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2112.01455)[ :octocat: ](https://ajayj.com/dreamfields)
@@ -137,11 +139,49 @@
         - **CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions**, ACM SIGGRAPH 2022, [ :link: ](https://arxiv.org/abs/2112.05219)
         - **Text and Image Guided 3D Avatar Generation and Manipulation**, WACV 2023, [ :link: ](https://arxiv.org/abs/2202.06079)
         - **Local 3D Editing via 3D Distillation of CLIP Knowledge**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2306.12570)
-        
+
+    - **Person Re-Identification**
+
+        - **Distilling CLIP with Dual Guidance for Learning Discriminative Human Body Shape Representation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Distilling_CLIP_with_Dual_Guidance_for_Learning_Discriminative_Human_Body_CVPR_2024_paper.pdf)
+
+    - **Zero-Shot Human-Object Interaction (HOI) Detection**
+
+        - **Exploiting CLIP for Zero-shot HOI Detection Requires Knowledge Distillation at Multiple Levels**, WACV 2024, [ :link: ](https://arxiv.org/abs/2309.05069)[ :octocat: ](https://github.com/bobwan1995/Zeroshot-HOI-with-CLIP)
+
+    - **Open-Vocabulary Out-of-Distribution Classification**
+
+        - **Distilling Large Vision-Language Model with Out-of-Distribution Generalizability**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2307.03135)[ :octocat: ](https://github.com/xuanlinli17/large_vlm_distillation_ood)
+
+    - **Domain Generalization**
+
+        - **A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2309.12530)
+
+    - **Video-Language Retrieval**
+
+        - **CLIPPING: Distilling CLIP-Based Models with a Student Base for Video-Language Retrieval**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Pei_CLIPPING_Distilling_CLIP-Based_Models_With_a_Student_Base_for_Video-Language_CVPR_2023_paper.pdf)
+
+    - **Affordance Detection**
+
+        - **What does CLIP know about peeling a banana?**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2404.12015)
+
+    - **Video Highlight Detection**
+
+        - **Unleash the Potential of CLIP for Video Highlight Detection**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2404.01745)
+
+    - **Monocular Depth Estimation**
+
+        - **CaBins: CLIP-based Adaptive Bins for Monocular Depth Estimation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024W/WAD/html/Son_CaBins_CLIP-based_Adaptive_Bins_for_Monocular_Depth_Estimation_CVPRW_2024_paper.html)
+
+    - **Multiple Tasks (Image Classification, Object Detection, Semantic Segmentation, Instance Segmentation, Image-Text Retrieval)**
+
+        - **MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2208.12262)[ :octocat: ](https://github.com/LightDXY/MaskCLIP)
+        - **TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2309.12314)[ :octocat: ](https://aka.ms/tinyclip)
+        - **CLIP-KD: An Empirical Study of CLIP Model Distillation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2307.12732)[ :octocat: ](https://github.com/winycg/CLIP-KD)
+        - **CLIP-Embed-KD: Computationally Efficient Knowledge Distillation Using Embeddings as Teachers**, HPEC 2024, [ :link: ](https://arxiv.org/abs/2404.06170)[ :octocat: ](https://github.com/lnairGT/CLIP-Distillation/)
+
 ### Segment Anything (SAM)
 ### Multi-model Applications
 ### Vision Transformers
-
 ## Self-Supervised Learning
 
 - **A simple framework for contrastive learning of visual representations**, NeurIPS 2020, [ :link: ](https://dl.acm.org/doi/10.5555/3524938.3525087)[ :octocat: ](https://github.com/google-research/simclr)
