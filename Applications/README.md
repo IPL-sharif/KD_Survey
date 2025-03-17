@@ -180,8 +180,25 @@
         - **CLIP-Embed-KD: Computationally Efficient Knowledge Distillation Using Embeddings as Teachers**, HPEC 2024, [ :link: ](https://arxiv.org/abs/2404.06170)[ :octocat: ](https://github.com/lnairGT/CLIP-Distillation/)
 
 ### Segment Anything (SAM)
+
+- **Road Network Graph Extraction**
+
+    - **Segment Anything Model for Road Network Graph Extraction**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2403.16051)
+
+- **Polyp Segmentation**
+
+    - **PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2405.16740)[ :octocat: ](https://github.com/SLDGroup/PP-SAM)
+
+- **Image Restoration**
+
+    - **Distilling Semantic Priors from SAM to Efficient Image Restoration Models**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2403.16368)
+
+
 ### Multi-model Applications
 ### Vision Transformers
+
+
+
 ## Self-Supervised Learning
 
 - **A simple framework for contrastive learning of visual representations**, NeurIPS 2020, [ :link: ](https://dl.acm.org/doi/10.5555/3524938.3525087)[ :octocat: ](https://github.com/google-research/simclr)
