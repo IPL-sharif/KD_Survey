@@ -193,6 +193,14 @@
 
     - **Distilling Semantic Priors from SAM to Efficient Image Restoration Models**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2403.16368)
 
+- **Weakly Supervised Semantic Segmentation**
+
+    - **Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation**, arXiv 2023, [ :link: ](https://arxiv.org/abs/2305.05803)[ :octocat: ](https://github.com/cskyl/SAM_WSSS)
+    - **An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems**, arXiv 2023, [ :link: ](https://arxiv.org/abs/2305.01586)[ :octocat: ](https://github.com/weixuansun/wsss_sam)
+    - **Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation**, arXiv 2023, [ :link: ](https://arxiv.org/abs/2305.01275)
+    - **Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models**, arXiv 2023, [ :link: ](https://arxiv.org/abs/2310.13026)
+    - **From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Kweon_From_SAM_to_CAMs_Exploring_Segment_Anything_Model_for_Weakly_CVPR_2024_paper.html)[ :octocat: ](https://github.com/sangrockEG/S2C)
+
 
 ### Multi-model Applications
 ### Vision Transformers
