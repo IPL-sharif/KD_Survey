@@ -203,6 +203,27 @@
 
 
 ### Multi-model Applications
+
+- **SAM + CLIP**
+
+    - **Foundation Model Assisted Weakly Supervised Semantic Segmentation**, WACV 2023, [ :link: ](https://arxiv.org/abs/2312.03585)[ :octocat: ](https://github.com/HAL-42/FMA-WSSS)
+    - **SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2310.15308)
+    - **Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2404.06362)[ :octocat: ](https://github.com/aleemsidra/SaLIP)
+
+- **DINO + CLIP**
+
+    - **LERF: Language Embedded Radiance Fields**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2303.09553)[ :octocat: ](https://lerf.io/)
+    - **CLIP-DINOiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation**, ECCV 2025, [ :link: ](https://arxiv.org/abs/2312.12359)[ :octocat: ](https://github.com/wysoczanska/clip_dinoiser)
+
+- **DETR + CLIP**
+
+    - **T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2403.14610)[ :octocat: ](https://github.com/IDEA-Research/T-Rex)
+
+- **SAM + GDINO**
+
+    - **Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2401.14159)[ :octocat: ](https://github.com/IDEA-Research/Grounded-SAM-2)
+    - **Prompting Foundational Models for Omni-supervised Instance Segmentation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024W/PV/papers/Das_Prompting_Foundational_Models_for_Omni-supervised_Instance_Segmentation_CVPRW_2024_paper.pdf)
+
 ### Vision Transformers
 
 
