@@ -1,6 +1,5 @@
 # 🚀 A Comprehensive Survey on Knowledge Distillation
 [![arXiv](https://img.shields.io/badge/arXiv-2503.12067-<COLOR>.svg)](https://arxiv.org/abs/2503.12067)
-![Stars](https://img.shields.io/github/stars/IPL-sharif/KD_Survey?style=social)
 
 This repository belongs to the paper: [A Comprehensive Survey on Knowledge Distillation]().
 
