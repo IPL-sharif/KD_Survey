@@ -271,6 +271,21 @@
     - **Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2211.08071)
     - **DETRDistill: A Universal Knowledge Distillation Framework for DETR-families**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2211.10156)[ :octocat: ](https://github.com/BIVLab-USTC/DETRDistill)
 
+- **DEtection TRansformer (DETR)**
+
+    - **Per-Pixel Classification is Not All You Need for Semantic Segmentation**, NeurIPS 2021, [ :link: ](https://arxiv.org/abs/2107.06278)[ :octocat: ](https://bowenc0221.github.io/maskformer)
+    - **Dynamic Feature Regularized Loss for Weakly Supervised Semantic Segmentation**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2108.01296)
+    - **SwinNet: Swin Transformer Drives Edge-Aware RGB-D and RGB-T Salient Object Detection**, TCSVT 2021, [ :link: ](https://ieeexplore.ieee.org/document/9611276/)[ :octocat: ](https://github.com/liuzywen/SwinNet)
+    - **SwinTrack: A Simple and Strong Baseline for Transformer Tracking**, NeurIPS 2022, [ :link: ](https://arxiv.org/abs/2112.00995)[ :octocat: ](https://github.com/LitingLin/SwinTrack)
+    - **SwinF: Swin Transformer with feature fusion in target detection**, JPCS 2022, [ :link: ](https://iopscience.iop.org/article/10.1088/1742-6596/2284/1/012027)
+    - **Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2111.14791)[ :octocat: ](https://monai.io/research/swin-unetr)
+    - **SSformer: A Lightweight Transformer for Semantic Segmentation**, MMSP 2022, [ :link: ](https://arxiv.org/abs/2208.02034)[ :octocat: ](https://github.com/shiwt03/SSformer)
+    - **Weakly Supervised Intracranial Hemorrhage Segmentation using Head-Wise Gradient-Infused Self-Attention Maps from a Swin Transformer in Categorical Learning**, arXiv 2023, [ :link: ](https://arxiv.org/abs/2304.04902)[ :octocat: ](https://github.com/HealthX-Lab/HGI-SAM)
+    - **HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation**, WACV 2023, [ :link: ](https://arxiv.org/abs/2207.08518)[ :octocat: ](https://github.com/amirhossein-kz/HiFormer)
+    - **Swin-Fusion: Swin-Transformer with Feature Fusion for Human Action Recognition**, NPL 2023, [ :link: ](https://link.springer.com/article/10.1007/s11063-023-11367-1)
+    - **Pyramid Swin Transformer: Different-Size Windows Swin Transformer for Image Classification and Object Detection**, VISIGRAPP 2023, [ :link: ](https://www.scitepress.org/Papers/2023/116758/116758.pdf)
+    - **SCUNet++: Swin-UNet and CNN Bottleneck Hybrid Architecture with Multi-Fusion Dense Skip Connection for Pulmonary Embolism CT Image Segmentation**, WACV 2024, [ :link: ](https://arxiv.org/abs/2312.14705)[ :octocat: ](https://github.com/JustlfC03/SCUNet-plusplus)
+    - **Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation**, MVIP 2024, [ :link: ](https://arxiv.org/abs/2401.17828)[ :octocat: ](https://github.com/RozhanAhmadi/SWTformer)
 
 ## Self-Supervised Learning
 
