@@ -266,7 +266,10 @@
     
         - **Diffusion Models for Open-Vocabulary Segmentation**, arXiv 2023, [ :link: ](https://arxiv.org/abs/2306.09316)
 
+- **DEtection TRansformer (DETR)**
 
+    - **Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2211.08071)
+    - **DETRDistill: A Universal Knowledge Distillation Framework for DETR-families**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2211.10156)[ :octocat: ](https://github.com/BIVLab-USTC/DETRDistill)
 
 
 ## Self-Supervised Learning
