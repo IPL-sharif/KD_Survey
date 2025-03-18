@@ -224,6 +224,17 @@
     - **Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2401.14159)[ :octocat: ](https://github.com/IDEA-Research/Grounded-SAM-2)
     - **Prompting Foundational Models for Omni-supervised Instance Segmentation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024W/PV/papers/Das_Prompting_Foundational_Models_for_Omni-supervised_Instance_Segmentation_CVPRW_2024_paper.pdf)
 
+- **Others**
+
+    - **FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2303.12786)[ :octocat: ](https://jianglongye.com/featurenerf/)
+    - **DIME-FM: DIstilling Multimodal and Efficient Foundation Models**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2303.18232)[ :octocat: ](https://github.com/sunxm2357/DIME-FM)
+    - **AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2312.06709)[ :octocat: ](https://github.com/NVlabs/RADIO)
+    - **Theia: Distilling Diverse Vision Foundation Models for Robot Learning**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2407.20179)[ :octocat: ](https://theia.theaiinstitute.com/)
+    - **Strategies to Leverage Foundational Model Knowledge in Object Affordance Grounding**, CVPR 2024, [ :link: ](https://www.google.com/search?q=Strategies+to+Leverage+Foundational+Model+Knowledge+in+Object+Affordance+Grounding&rlz=1C1GCEA_enIR1132IR1132&sourceid=chrome&ie=UTF-8)
+    - **Enrich Distill and Fuse: Generalized Few-Shot Semantic Segmentation in Remote Sensing Leveraging Foundation Model's Assistance**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024W/L3D-IVU/html/Gao_Enrich_Distill_and_Fuse_Generalized_Few-Shot_Semantic_Segmentation_in_Remote_CVPRW_2024_paper.html)
+    - **Exploring the Benefits of Vision Foundation Models for Unsupervised Domain Adaptation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2406.09896)[ :octocat: ](https://github.com/tue-mps/vfm-uda)
+    - **Distilling Knowledge from Multiple Foundation Models for Zero-shot Image classification**, PlosOne 2024, [ :link: ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310730)[ :octocat: ](https://github.com/1134112149/MICW-ZIC)
+
 ### Vision Transformers
 
 
