@@ -237,6 +237,16 @@
 
 ### Vision Transformers
 
+- **Vision Transformer (ViT)**
+
+    - **Supervised Masked Knowledge Distillation for Few-Shot Transformers**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2303.15466)[ :octocat: ](https://github.com/HL-hanlin/SMKD)
+    - **Masked Autoencoders Enable Efficient Knowledge Distillers**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2208.12256)[ :octocat: ](https://github.com/UCSC-VLAA/DMAE)
+    - **Distilling Self-Supervised Vision Transformers for Weakly-Supervised Few-Shot Classification & Segmentation**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2307.03407)[ :octocat: ](https://github.com/dahyun-kang/cst)
+    - **TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2301.01296)[ :octocat: ](https://github.com/OliverRensu/TinyMIM)
+    - **Incrementer: Transformer for Class-Incremental Semantic Segmentation With Knowledge Distillation Focusing on Old Class**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.pdf)
+    - **Cumulative Spatial Knowledge Distillation for Vision Transformers**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2307.08500)[ :octocat: ](https://github.com/Zzzzz1/CSKD)
+    - **Feature-based Knowledge Distillation for Vision Transformers**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024W/PBDL/papers/Yang_ViTKD_Feature-based_Knowledge_Distillation_for_Vision_Transformers_CVPRW_2024_paper.pdf)[ :octocat: ](https://github.com/yzd-v/cls_KD)
+
 
 
 ## Self-Supervised Learning
