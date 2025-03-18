@@ -247,6 +247,26 @@
     - **Cumulative Spatial Knowledge Distillation for Vision Transformers**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2307.08500)[ :octocat: ](https://github.com/Zzzzz1/CSKD)
     - **Feature-based Knowledge Distillation for Vision Transformers**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024W/PBDL/papers/Yang_ViTKD_Feature-based_Knowledge_Distillation_for_Vision_Transformers_CVPRW_2024_paper.pdf)[ :octocat: ](https://github.com/yzd-v/cls_KD)
 
+- **Distillation with No Labels (DINO)**
+
+    - **Unsupervised Object Discovery**
+
+        - **Localizing Objects with Self-Supervised Transformers and no Labels**, BMVC 2021, [ :link: ](https://arxiv.org/abs/2109.14279)[ :octocat: ](https://github.com/valeoai/LOST)
+        - **Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2202.11539)[ :octocat: ](https://www.m-psi.fr/Papers/TokenCut2022/)
+        - **Unsupervised Object Localization: Observing the Background to Discover Objects**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2212.07834)[ :octocat: ](https://github.com/valeoai/FOUND)
+        - **Cut and Learn for Unsupervised Object Detection and Instance Segmentation**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2301.11320)[ :octocat: ](https://github.com/facebookresearch/CutLER)
+        - **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2303.05499)[ :octocat: ](https://github.com/IDEA-Research/GroundingDINO)
+        - **DIOD: Self-Distillation Meets Object Discovery**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Kara_DIOD_Self-Distillation_Meets_Object_Discovery_CVPR_2024_paper.html)[ :octocat: ](https://github.com/CEA-LIST/DIOD)
+
+    - **Open-world Counting**
+
+        - **CountGD: Multi-Modal Open-World Counting**, NeurIPS 2025, [ :link: ](https://arxiv.org/abs/2407.04619)[ :octocat: ](https://github.com/niki-amini-naieni/CountGD/)
+
+    - **Zero-shot Semantic Segmentation**
+    
+        - **Diffusion Models for Open-Vocabulary Segmentation**, arXiv 2023, [ :link: ](https://arxiv.org/abs/2306.09316)
+
+
 
 
 ## Self-Supervised Learning
