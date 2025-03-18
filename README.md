@@ -58,12 +58,15 @@ Deep Neural Networks (DNNs) have achieved notable performance in the fields of c
 - [Diffusion Models](Applications/README.md#diffusion-models)
 - [Visual Recognition](Applications/README.md#knowledge-distillation-in-visual-recognition)
 
-
-
 ## 📜 Citation
 If you use this repository for your research or wish to refer to our distillation methods, please use the following BibTeX entries:
 ```bibtex
-
+@article{mansourian2025comprehensive,
+  title={A Comprehensive Survey on Knowledge Distillation},
+  author={Mansourian, Amir M and Ahmadi, Rozhan and Ghafouri, Masoud and Babaei, Amir Mohammad and Golezani, Elaheh Badali and Ghamchi, Zeynab Yasamani and Ramezanian, Vida and Taherian, Alireza and Dinashi, Kimia and Miri, Amirali and Kasaei, Shohreh},
+  journal={arXiv preprint arXiv:2503.12067},
+  year={2025}
+}
 
 @article{mansourian2025aicsd,
   title={AICSD: Adaptive inter-class similarity distillation for semantic segmentation},
