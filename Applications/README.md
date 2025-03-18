@@ -271,7 +271,7 @@
     - **Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2211.08071)
     - **DETRDistill: A Universal Knowledge Distillation Framework for DETR-families**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2211.10156)[ :octocat: ](https://github.com/BIVLab-USTC/DETRDistill)
 
-- **DEtection TRansformer (DETR)**
+- **Swin Transformer**
 
     - **Per-Pixel Classification is Not All You Need for Semantic Segmentation**, NeurIPS 2021, [ :link: ](https://arxiv.org/abs/2107.06278)[ :octocat: ](https://bowenc0221.github.io/maskformer)
     - **Dynamic Feature Regularized Loss for Weakly Supervised Semantic Segmentation**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2108.01296)
