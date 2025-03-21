@@ -9,6 +9,7 @@
 ## Online Distillation
 
 - **Knowledge Distillation by On-the-Fly Native Ensemble**, NeurIPS 2018, [ :link: ](https://proceedings.neurips.cc/paper/2018/hash/94ef7214c4a90790186e255304f8fd1f-Abstract.html)[ :octocat: ](https://github.com/Lan1991Xu/ONE_NeurIPS2018)
+- **Online Knowledge Distillation with Diverse Peers**, AAAI 2020, [ :link: ](https://arxiv.org/abs/1912.00350)[ :octocat: ](https://github.com/DefangChen/OKDDip)
 - **Online knowledge distillation via collaborative learning**, CVPR 2020, [ :link: ](http://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Online_Knowledge_Distillation_via_Collaborative_Learning_CVPR_2020_paper.html)[ :octocat: ](https://github.com/shaoeric/Online-Knowledge-Distillation-via-Collaborative-Learning)
 - **Improved Knowledge Distillation via Teacher Assistant**, AAAI Conf. Artif. Intell. 2020, [ :link: ](https://aaai.org/ojs/index.php/AAAI/article/view/5963/5819)[ :octocat: ](https://github.com/imirzadeh/Teacher-Assistant-Knowledge-Distillation)
 - **Peer collaborative learning for online knowledge distillation**, AAAI Conf. Artif. Intell. 2021, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/17234)[ :octocat: ](https://github.com/shaoeric/Peer-Collaborative-Learning-for-Online-Knowledge-Distillation)
