@@ -324,6 +324,7 @@
 - **Relational diffusion distillation for efficient image generation**, ACM MM 2024, [ :link: ](https://arxiv.org/abs/2410.07679)[ :octocat: ](https://github.com/cantbebetter2/RDD)
 - **Multistep Distillation of Diffusion Models via Moment Matching**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2406.04103)
 - **EM Distillation for One-step Diffusion Models**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2405.16852)
+- **Simple and Fast Distillation of Diffusion Models**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2409.19681)[ :octocat: ](https://github.com/zju-pi/diff-sampler)
 - **One-step Diffusion with Distribution Matching Distillation**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2311.18828)[ :octocat: ](https://github.com/devrimcavusoglu/dmd)
 - **Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2410.11081)[ :octocat: ](https://github.com/xandergos/sCM-mnist)
 - **Consistency Models Made Easy**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2406.14548)[ :octocat: ](https://github.com/locuslab/ect)
