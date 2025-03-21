@@ -42,6 +42,7 @@
 - **ALP-KD: Attention-Based Layer Projection for Knowledge Distillation**, AAAI 2021, [ :link: ](https://arxiv.org/abs/2012.14022) 
 - **Channel-Wise Knowledge Distillation for Dense Prediction**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Shu_Channel-Wise_Knowledge_Distillation_for_Dense_Prediction_ICCV_2021_paper.html)[ :octocat: ](https://github.com/drilistbox/CWD)
 - **Masked Generative Distillation**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2205.01529)[ :octocat: ](https://github.com/yzd-v/MGD)
+- **Knowledge Distillation with the Reused Teacher Classifier**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2203.14001)[ :octocat: ](https://github.com/DefangChen/SimKD)
 - **A Simple and Generic Framework for Feature Distillation via Channel-wise Transformation**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2303.13212)
 - **NORM: Knowledge Distillation via N-to-One Representation Matching**, ICLR 2023, [ :link: ](https://arxiv.org/abs/2305.13803)[ :octocat: ](https://github.com/OSVAI/NORM)
 - **Knowledge Diffusion for Distillation**, NeurIPS 2023, [ :link: ](https://arxiv.org/abs/2305.15712)[ :octocat: ](https://github.com/hunto/DiffKD)
