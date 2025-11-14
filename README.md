@@ -67,13 +67,11 @@ issn={2835-8856},
 year={2025}
 }
 
-@article{mansourian2025aicsd,
-  title={AICSD: Adaptive inter-class similarity distillation for semantic segmentation},
-  author={Mansourian, Amir M and Ahamdi, Rozhan and Kasaei, Shohreh},
-  journal={Multimedia Tools and Applications},
-  pages={1--20},
-  year={2025},
-  publisher={Springer}
+@article{mansourian2025enriching,
+  title={Enriching Knowledge Distillation with Cross-Modal Teacher Fusion},
+  author={Mansourian, Amir M and Babaei, Amir Mohammad and Kasaei, Shohreh},
+  journal={arXiv preprint arXiv:2511.09286},
+  year={2025}
 }
 
 @article{mansourian2025aicsd,
