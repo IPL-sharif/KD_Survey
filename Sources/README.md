@@ -24,6 +24,7 @@
 - **BPKD: Boundary Privileged Knowledge Distillation for Semantic Segmentation**, WACV 2024, [ :link: ](https://arxiv.org/abs/2306.08075) [ :octocat: ](https://github.com/AkideLiu/BPKD)
 - **Decoupled Kullback-Leibler Divergence Loss**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2305.13948)
 - **Knowledge Distillation Based on Transformed Teacher Matching**, ICLR 2024, [ :link: ](https://arxiv.org/abs/2402.11148)
+- **Enriching Knowledge Distillation with Cross-Modal Teacher Fusion**, Arxiv 2025, [ :link: ](https://arxiv.org/abs/2511.09286) 
 
 
 ### Feature-based Distillation
