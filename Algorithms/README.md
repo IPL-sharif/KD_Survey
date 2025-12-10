@@ -111,7 +111,10 @@
 - **ATMKD: adaptive temperature guided multi-teacher knowledge distillation**, Multimedia Systems 2024, [ :link: ](https://link.springer.com/article/10.1007/s00530-024-01483-w) 
 - **Amalgamating Knowledge for Comprehensive Classification with Uncertainty Suppression**, ISCAS 2024, [ :link: ](https://ieeexplore.ieee.org/document/10557913/) 
 - **Relation-Based Multi-Teacher Knowledge Distillation**, IJCNN 2024, [ :link: ](https://ieeexplore.ieee.org/document/10650189) 
-- **DE-MKD: Decoupled Multi-Teacher Knowledge Distillation Based on Entropy**, Mathematics 2024, [ :link: ](https://www.mdpi.com/2227-7390/12/11/1672) 
+- **DE-MKD: Decoupled Multi-Teacher Knowledge Distillation Based on Entropy**, Mathematics 2024, [ :link: ](https://www.mdpi.com/2227-7390/12/11/1672)
+- **Improving Knowledge Distillation via Cross-Modal Insights from CLIP**, ICASSP 2025, [ :link: ](https://ieeexplore.ieee.org/document/10889763)[ :octocat: ](https://github.com/JT-Zhou/CIKD)
+- **back arrowGo to ICLR 2025 Conference homepage Single Teacher, Multiple Perspectives: Teacher Knowledge Augmentation for Enhanced Knowledge Distillation**, ICLR 2025, [ :link: ](https://openreview.net/forum?id=DmEHmZ89iB) 
+- **Enriching Knowledge Distillation with Cross-Modal Teacher Fusion**, Arxiv 2025, [ :link: ](https://arxiv.org/abs/2511.09286) 
 
 ## Cross-modal Distillation
 
