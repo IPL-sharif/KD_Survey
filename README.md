@@ -68,10 +68,11 @@ year={2025}
 }
 
 
-@article{mansourian2026enriching,
-  title={Enriching Knowledge Distillation with Cross-Modal Teacher Fusion},
+@inproceedings{mansourian2026enriching,
+  title={Enriching knowledge distillation with cross-modal teacher fusion},
   author={Mansourian, Amir M and Babaei, Amir Mohammad and Kasaei, Shohreh},
-  journal={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2893--2903},
   year={2026}
 }
 
